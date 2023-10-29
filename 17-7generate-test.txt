@@ -1,0 +1,2560 @@
+S-2111	robert gu@@ p@@ ta .
+T-2111	robert gu@@ p@@ ta .
+H-2111	-1.3972256183624268	once you sh@@ ing .
+D-2111	-1.3972256183624268	once you sh@@ ing .
+P-2111	-4.1760 -0.1738 -2.2438 -1.7070 -0.0406 -0.0422
+S-3679	robert gu@@ p@@ ta .
+T-3679	robert gu@@ p@@ ta .
+H-3679	-1.3972256183624268	once you sh@@ ing .
+D-3679	-1.3972256183624268	once you sh@@ ing .
+P-3679	-4.1760 -0.1738 -2.2438 -1.7070 -0.0406 -0.0422
+S-3530	ziemlich gut , nicht ?
+T-3530	pretty good , right ?
+H-3530	-0.9897059202194214	well , pretty , not , ok ?
+D-3530	-0.9897059202194214	well , pretty , not , ok ?
+P-3530	-1.4032 -0.0154 -1.3908 -0.6348 -0.3878 -1.6284 -3.3726 -0.0386 -0.0359
+S-3511	es ist schreck@@ lich .
+T-3511	it &apos;s horri@@ ble .
+H-3511	-0.7122780680656433	it &apos;s reas@@ sur@@ ing .
+D-3511	-0.7122780680656433	it &apos;s reas@@ sur@@ ing .
+P-3511	-0.0389 -0.0640 -2.6760 -2.0185 -0.1257 -0.0155 -0.0473
+S-3507	aber wissen sie was ?
+T-3507	but you know what ?
+H-3507	-0.2580432593822479	but do you know ?
+D-3507	-0.2580432593822479	but do you know ?
+P-3507	-0.0918 -0.6615 -0.0020 -0.0088 -0.7492 -0.0349
+S-3393	was war das ergebnis ?
+T-3393	what was the result ?
+H-3393	-0.47399991750717163	what was this ?
+D-3393	-0.47399991750717163	what was this ?
+P-3393	-0.0052 -1.3286 -0.1742 -0.8135 -0.0486
+S-3370	klingt vertraut , was ?
+T-3370	sound familiar ? right .
+H-3370	-1.3698124885559082	so what do ?
+D-3370	-1.3698124885559082	so what do ?
+P-3370	-2.1247 -0.6763 -2.8710 -1.1318 -0.0452
+S-3369	es ist eine krise .
+T-3369	it &apos;s a crisis .
+H-3369	-0.43017512559890747	it &apos;s a crisis .
+D-3369	-0.43017512559890747	it &apos;s a crisis .
+P-3369	-0.3090 -0.0537 -0.4702 -1.6425 -0.0544 -0.0512
+S-3305	oh , also der .
+T-3305	oh , that guy .
+H-3305	-0.6376739144325256	so , oh , the god .
+D-3305	-0.6376739144325256	so , oh , the god .
+P-3305	-0.7917 -0.0182 -0.5784 -0.0092 -0.1551 -3.3907 -0.0967 -0.0614
+S-3291	es gibt kein normal .
+T-3291	there &apos;s no normal .
+H-3291	-0.4764575958251953	there &apos;s not enough .
+D-3291	-0.4764575958251953	there &apos;s not enough .
+P-3291	-0.1057 -0.3714 -0.0754 -2.1237 -0.1197 -0.0628
+S-3124	das ist <unk> wichtig .
+T-3124	that &apos;s super important .
+H-3124	-0.5366871953010559	that &apos;s important .
+D-3124	-0.5366871953010559	that &apos;s important .
+P-3124	-0.6052 -0.0356 -1.9652 -0.0215 -0.0558
+S-2963	ca : 6@@ 0.000 .
+T-2963	ca : 6@@ 0,000 .
+H-2963	-0.6652994155883789	ca : thank you .
+D-2963	-0.6652994155883789	ca : thank you .
+P-2963	-0.0271 -0.0195 -3.8814 -0.0047 -0.0143 -0.0448
+S-2712	das war faszinier@@ end .
+T-2712	and this was fascinating .
+H-2712	-1.3444682359695435	that was the fascinating .
+D-2712	-1.3444682359695435	that was the fascinating .
+P-2712	-3.3140 -0.4422 -1.4004 -1.8951 -0.9628 -0.0524
+S-2582	darf ich ehrlich sein ?
+T-2582	can i be honest ?
+H-2582	-1.1627203226089478	can i be key ?
+D-2582	-1.1627203226089478	can i be key ?
+P-2582	-1.7326 -0.1754 -0.1750 -4.7940 -0.0484 -0.0509
+S-2498	die farm ist unglaublich .
+T-2498	the farm &apos;s incredible .
+H-2498	-1.164883017539978	just the experiments is incredibly simple .
+D-2498	-1.164883017539978	just the experiments is incredibly simple .
+P-2498	-2.7424 -0.2589 -3.3505 -0.0553 -0.1592 -2.6814 -0.0154 -0.0560
+S-2492	was haben sie gemacht ?
+T-2492	what did they do ?
+H-2492	-0.6090564131736755	what did you do ?
+D-2492	-0.6090564131736755	what did you do ?
+P-2492	-0.4517 -0.6272 -0.1655 -2.3283 -0.0179 -0.0638
+S-4060	was haben sie gemacht ?
+T-4060	what did they do ?
+H-4060	-0.6090564131736755	what did you do ?
+D-4060	-0.6090564131736755	what did you do ?
+P-4060	-0.4517 -0.6272 -0.1655 -2.3283 -0.0179 -0.0638
+S-1962	ziemlich gut , nicht ?
+T-1962	pretty good , right ?
+H-1962	-0.9897059202194214	well , pretty , not , ok ?
+D-1962	-0.9897059202194214	well , pretty , not , ok ?
+P-1962	-1.4032 -0.0154 -1.3908 -0.6348 -0.3878 -1.6284 -3.3726 -0.0386 -0.0359
+S-1943	es ist schreck@@ lich .
+T-1943	it &apos;s horri@@ ble .
+H-1943	-0.7122780680656433	it &apos;s reas@@ sur@@ ing .
+D-1943	-0.7122780680656433	it &apos;s reas@@ sur@@ ing .
+P-1943	-0.0389 -0.0640 -2.6760 -2.0185 -0.1257 -0.0155 -0.0473
+S-1939	aber wissen sie was ?
+T-1939	but you know what ?
+H-1939	-0.2580432593822479	but do you know ?
+D-1939	-0.2580432593822479	but do you know ?
+P-1939	-0.0918 -0.6615 -0.0020 -0.0088 -0.7492 -0.0349
+S-1825	was war das ergebnis ?
+T-1825	what was the result ?
+H-1825	-0.47399991750717163	what was this ?
+D-1825	-0.47399991750717163	what was this ?
+P-1825	-0.0052 -1.3286 -0.1742 -0.8135 -0.0486
+S-1802	klingt vertraut , was ?
+T-1802	sound familiar ? right .
+H-1802	-1.3698124885559082	so what do ?
+D-1802	-1.3698124885559082	so what do ?
+P-1802	-2.1247 -0.6763 -2.8710 -1.1318 -0.0452
+S-1801	es ist eine krise .
+T-1801	it &apos;s a crisis .
+H-1801	-0.43017512559890747	it &apos;s a crisis .
+D-1801	-0.43017512559890747	it &apos;s a crisis .
+P-1801	-0.3090 -0.0537 -0.4702 -1.6425 -0.0544 -0.0512
+S-1055	gute arbeit ! ja !
+T-1055	good job ! yeah !
+H-1055	-0.22882509231567383	good !
+D-1055	-0.22882509231567383	good !
+P-1055	-0.3494 -0.2783 -0.0589
+S-1003	dies war das ergebnis .
+T-1003	this was the result .
+H-1003	-0.9391007423400879	this was an conclu@@ ded that .
+D-1003	-0.9391007423400879	this was an conclu@@ ded that .
+P-1003	-0.0097 -1.6204 -0.1778 -2.9102 -1.0080 -1.0926 -0.6463 -0.0478
+S-167	gute arbeit ! ja !
+T-167	good job ! yeah !
+H-167	-0.22882509231567383	good !
+D-167	-0.22882509231567383	good !
+P-167	-0.3494 -0.2783 -0.0589
+S-115	dies war das ergebnis .
+T-115	this was the result .
+H-115	-0.9391007423400879	this was an conclu@@ ded that .
+D-115	-0.9391007423400879	this was an conclu@@ ded that .
+P-115	-0.0097 -1.6204 -0.1778 -2.9102 -1.0080 -1.0926 -0.6463 -0.0478
+S-4490	sehr <unk> licher begriff .
+T-4490	very different notion .
+H-4490	-1.1772674322128296	very chemistry .
+D-4490	-1.1772674322128296	very chemistry .
+P-4490	-0.0820 -4.1882 -0.3895 -0.0494
+S-4034	das bin ich sogar .
+T-4034	i actually am .
+H-4034	-0.48123255372047424	this is even even even even .
+D-4034	-0.48123255372047424	this is even even even even .
+P-4034	-0.8882 -0.3547 -0.0392 -0.0201 -0.2205 -1.5924 -0.6638 -0.0709
+S-4002	nicht sehr nachhal@@ tig .
+T-4002	not very sustainable .
+H-4002	-1.3349385261535645	not very well .
+D-4002	-1.3349385261535645	not very well .
+P-4002	-1.2052 -1.7882 -3.3161 -0.2925 -0.0727
+S-3987	was für ein fisch .
+T-3987	what a fish .
+H-3987	-0.9833366870880127	what &apos;s a consu@@ mer .
+D-3987	-0.9833366870880127	what &apos;s a consu@@ mer .
+P-3987	-0.6321 -0.6624 -1.0742 -3.3801 -1.0538 -0.0273 -0.0535
+S-2922	sehr <unk> licher begriff .
+T-2922	very different notion .
+H-2922	-1.1772674322128296	very chemistry .
+D-2922	-1.1772674322128296	very chemistry .
+P-2922	-0.0820 -4.1882 -0.3895 -0.0494
+S-2439	nennen wir ihn don .
+T-2439	let &apos;s call him don .
+H-2439	-1.04421865940094	we call it .
+D-2439	-1.04421865940094	we call it .
+P-2439	-0.0934 -1.4456 -2.4409 -1.1585 -0.0827
+S-2530	sie schle@@ mmen . &quot;
+T-2530	they &apos;re fe@@ ast@@ ing . &quot;
+H-2530	-0.99593186378479	you can burn it . &quot;
+D-2530	-0.99593186378479	you can burn it . &quot;
+P-2530	-1.1753 -1.4422 -3.1867 -0.8175 -0.1286 -0.1908 -0.0305
+S-2208	<unk> sitzen nicht herum .
+T-2208	<<unk>> ers don &apos;t sit around .
+H-2208	-0.6880220770835876	it doesn &apos;t around it .
+D-2208	-0.6880220770835876	it doesn &apos;t around it .
+P-2208	-1.3512 -1.6340 -0.0075 -1.3929 -0.3475 -0.0111 -0.0720
+S-1066	also schauen wir mal .
+T-1066	so let &apos;s have a look .
+H-1066	-0.7903594374656677	so we &apos;re looking at a time .
+D-1066	-0.7903594374656677	so we &apos;re looking at a time .
+P-1066	-0.0340 -0.1538 -1.6050 -2.1213 -0.3521 -1.2405 -1.4308 -0.0978 -0.0780
+S-178	also schauen wir mal .
+T-178	so let &apos;s have a look .
+H-178	-0.7903594374656677	so we &apos;re looking at a time .
+D-178	-0.7903594374656677	so we &apos;re looking at a time .
+P-178	-0.0340 -0.1538 -1.6050 -2.1213 -0.3521 -1.2405 -1.4308 -0.0978 -0.0780
+S-4703	das ist ein wunsch .
+T-4703	so this is a wish .
+H-4703	-0.6588926911354065	that &apos;s a good thing .
+D-4703	-0.6588926911354065	that &apos;s a good thing .
+P-4703	-0.2720 -0.0197 -1.5600 -2.6131 -0.0532 -0.0518 -0.0423
+S-4431	woher wissen wir das ?
+T-4431	how do we know that ?
+H-4431	-0.5176474452018738	where do we know ?
+D-4431	-0.5176474452018738	where do we know ?
+P-4431	-1.5041 -0.8221 -0.1730 -0.1277 -0.4313 -0.0477
+S-4185	und ich war künstler .
+T-4185	and i was an artist .
+H-4185	-1.1534045934677124	and i was vis@@ sed with him .
+D-4185	-1.1534045934677124	and i was vis@@ sed with him .
+P-4185	-0.7776 -0.0125 -0.0227 -4.7129 -1.6779 -0.6851 -2.3701 -0.0539 -0.0678
+S-4007	nennen wir ihn don .
+T-4007	let &apos;s call him don .
+H-4007	-1.04421865940094	we call it .
+D-4007	-1.04421865940094	we call it .
+P-4007	-0.0934 -1.4456 -2.4409 -1.1585 -0.0827
+S-3631	denn wissen sie was ?
+T-3631	because , you know something ?
+H-3631	-0.3993004560470581	because you know what ?
+D-3631	-0.3993004560470581	because you know what ?
+P-3631	-1.2134 -0.3345 -0.0063 -0.7036 -0.1024 -0.0357
+S-3609	sie ist kein land .
+T-3609	it &apos;s not a country .
+H-3609	-0.3826131224632263	it &apos;s not a country .
+D-3609	-0.3826131224632263	it &apos;s not a country .
+P-3609	-1.1892 -0.0087 -0.0131 -1.0582 -0.0285 -0.3217 -0.0588
+S-3599	warum tun wir das ?
+T-3599	why do we do that ?
+H-3599	-0.3916701078414917	why do we do it ?
+D-3599	-0.3916701078414917	why do we do it ?
+P-3599	-0.0725 -0.1364 -0.3478 -1.5272 -0.6036 -0.0003 -0.0539
+S-3516	passiert nicht sehr oft .
+T-3516	doesn &apos;t happen very much .
+H-3516	-0.6273049712181091	not very much .
+D-3516	-0.6273049712181091	not very much .
+P-3516	-1.0061 -1.2839 -0.6175 -0.1701 -0.0588
+S-3135	das ist ein wunsch .
+T-3135	so this is a wish .
+H-3135	-0.6588926911354065	that &apos;s a good thing .
+D-3135	-0.6588926911354065	that &apos;s a good thing .
+P-3135	-0.2720 -0.0197 -1.5600 -2.6131 -0.0532 -0.0518 -0.0423
+S-2863	woher wissen wir das ?
+T-2863	how do we know that ?
+H-2863	-0.5176474452018738	where do we know ?
+D-2863	-0.5176474452018738	where do we know ?
+P-2863	-1.5041 -0.8221 -0.1730 -0.1277 -0.4313 -0.0477
+S-2617	und ich war künstler .
+T-2617	and i was an artist .
+H-2617	-1.1534045934677124	and i was vis@@ sed with him .
+D-2617	-1.1534045934677124	and i was vis@@ sed with him .
+P-2617	-0.7776 -0.0125 -0.0227 -4.7129 -1.6779 -0.6851 -2.3701 -0.0539 -0.0678
+S-2466	das bin ich sogar .
+T-2466	i actually am .
+H-2466	-0.48123255372047424	this is even even even even .
+D-2466	-0.48123255372047424	this is even even even even .
+P-2466	-0.8882 -0.3547 -0.0392 -0.0201 -0.2205 -1.5924 -0.6638 -0.0709
+S-2063	denn wissen sie was ?
+T-2063	because , you know something ?
+H-2063	-0.3993004560470581	because you know what ?
+D-2063	-0.3993004560470581	because you know what ?
+P-2063	-1.2134 -0.3345 -0.0063 -0.7036 -0.1024 -0.0357
+S-2041	sie ist kein land .
+T-2041	it &apos;s not a country .
+H-2041	-0.3826131224632263	it &apos;s not a country .
+D-2041	-0.3826131224632263	it &apos;s not a country .
+P-2041	-1.1892 -0.0087 -0.0131 -1.0582 -0.0285 -0.3217 -0.0588
+S-2031	warum tun wir das ?
+T-2031	why do we do that ?
+H-2031	-0.3916701078414917	why do we do it ?
+D-2031	-0.3916701078414917	why do we do it ?
+P-2031	-0.0725 -0.1364 -0.3478 -1.5272 -0.6036 -0.0003 -0.0539
+S-1948	passiert nicht sehr oft .
+T-1948	doesn &apos;t happen very much .
+H-1948	-0.6273049712181091	not very much .
+D-1948	-0.6273049712181091	not very much .
+P-1948	-1.0061 -1.2839 -0.6175 -0.1701 -0.0588
+S-1619	diese tage sind vorbei .
+T-1619	and those days are gone .
+H-1619	-0.8938928246498108	these are groups .
+D-1619	-0.8938928246498108	these are groups .
+P-1619	-0.1384 -0.7956 -3.4133 -0.0665 -0.0556
+S-1159	können wir es ändern ?
+T-1159	can we do this differently ?
+H-1159	-0.2891126275062561	can we make it to change ?
+D-1159	-0.2891126275062561	can we make it to change ?
+P-1159	-0.0418 -0.0846 -0.1050 -0.0003 -1.5890 -0.4208 -0.0111 -0.0604
+S-731	diese tage sind vorbei .
+T-731	and those days are gone .
+H-731	-0.8938928246498108	these are groups .
+D-731	-0.8938928246498108	these are groups .
+P-731	-0.1384 -0.7956 -3.4133 -0.0665 -0.0556
+S-271	können wir es ändern ?
+T-271	can we do this differently ?
+H-271	-0.2891126275062561	can we make it to change ?
+D-271	-0.2891126275062561	can we make it to change ?
+P-271	-0.0418 -0.0846 -0.1050 -0.0003 -1.5890 -0.4208 -0.0111 -0.0604
+S-4873	oh , also der .
+T-4873	oh , that guy .
+H-4873	-0.6376739144325256	so , oh , the god .
+D-4873	-0.6376739144325256	so , oh , the god .
+P-4873	-0.7917 -0.0182 -0.5784 -0.0092 -0.1551 -3.3907 -0.0967 -0.0614
+S-4859	es gibt kein normal .
+T-4859	there &apos;s no normal .
+H-4859	-0.4764575958251953	there &apos;s not enough .
+D-4859	-0.4764575958251953	there &apos;s not enough .
+P-4859	-0.1057 -0.3714 -0.0754 -2.1237 -0.1197 -0.0628
+S-4692	das ist <unk> wichtig .
+T-4692	that &apos;s super important .
+H-4692	-0.5366871953010559	that &apos;s important .
+D-4692	-0.5366871953010559	that &apos;s important .
+P-4692	-0.6052 -0.0356 -1.9652 -0.0215 -0.0558
+S-4531	ca : 6@@ 0.000 .
+T-4531	ca : 6@@ 0,000 .
+H-4531	-0.6652994155883789	ca : thank you .
+D-4531	-0.6652994155883789	ca : thank you .
+P-4531	-0.0271 -0.0195 -3.8814 -0.0047 -0.0143 -0.0448
+S-4280	das war faszinier@@ end .
+T-4280	and this was fascinating .
+H-4280	-1.3444682359695435	that was the fascinating .
+D-4280	-1.3444682359695435	that was the fascinating .
+P-4280	-3.3140 -0.4422 -1.4004 -1.8951 -0.9628 -0.0524
+S-4150	darf ich ehrlich sein ?
+T-4150	can i be honest ?
+H-4150	-1.1627203226089478	can i be key ?
+D-4150	-1.1627203226089478	can i be key ?
+P-4150	-1.7326 -0.1754 -0.1750 -4.7940 -0.0484 -0.0509
+S-4066	die farm ist unglaublich .
+T-4066	the farm &apos;s incredible .
+H-4066	-1.164883017539978	just the experiments is incredibly simple .
+D-4066	-1.164883017539978	just the experiments is incredibly simple .
+P-4066	-2.7424 -0.2589 -3.3505 -0.0553 -0.1592 -2.6814 -0.0154 -0.0560
+S-2434	nicht sehr nachhal@@ tig .
+T-2434	not very sustainable .
+H-2434	-1.3349385261535645	not very well .
+D-2434	-1.3349385261535645	not very well .
+P-2434	-1.2052 -1.7882 -3.3161 -0.2925 -0.0727
+S-2419	was für ein fisch .
+T-2419	what a fish .
+H-2419	-0.9833366870880127	what &apos;s a consu@@ mer .
+D-2419	-0.9833366870880127	what &apos;s a consu@@ mer .
+P-2419	-0.6321 -0.6624 -1.0742 -3.3801 -1.0538 -0.0273 -0.0535
+S-2347	toll@@ er trick ?
+T-2347	nice one .
+H-2347	-0.8185996413230896	he does he put it ?
+D-2347	-0.8185996413230896	he does he put it ?
+P-2347	-0.5844 -0.5311 -0.1660 -3.2728 -1.0767 -0.0585 -0.0407
+S-2074	danke . danke .
+T-2074	thank you .
+H-2074	-0.015813924372196198	thank you .
+D-2074	-0.015813924372196198	thank you .
+P-2074	-0.0016 -0.0014 -0.0102 -0.0501
+S-3642	danke . danke .
+T-3642	thank you .
+H-3642	-0.015813924372196198	thank you .
+D-3642	-0.015813924372196198	thank you .
+P-3642	-0.0016 -0.0014 -0.0102 -0.0501
+S-3915	toll@@ er trick ?
+T-3915	nice one .
+H-3915	-0.8185996413230896	he does he put it ?
+D-3915	-0.8185996413230896	he does he put it ?
+P-3915	-0.5844 -0.5311 -0.1660 -3.2728 -1.0767 -0.0585 -0.0407
+S-347	das ist schwer .
+T-347	this is hard .
+H-347	-0.8931941986083984	that &apos;s difficult .
+D-347	-0.8931941986083984	that &apos;s difficult .
+P-347	-0.2687 -0.0054 -4.1281 -0.0195 -0.0443
+S-603	es ist interessant .
+T-603	it &apos;s interesting .
+H-603	-0.22773103415966034	it &apos;s interesting .
+D-603	-0.22773103415966034	it &apos;s interesting .
+P-603	-0.0268 -0.0357 -0.9855 -0.0406 -0.0500
+S-1235	das ist schwer .
+T-1235	this is hard .
+H-1235	-0.8931941986083984	that &apos;s difficult .
+D-1235	-0.8931941986083984	that &apos;s difficult .
+P-1235	-0.2687 -0.0054 -4.1281 -0.0195 -0.0443
+S-1491	es ist interessant .
+T-1491	it &apos;s interesting .
+H-1491	-0.22773103415966034	it &apos;s interesting .
+D-1491	-0.22773103415966034	it &apos;s interesting .
+P-1491	-0.0268 -0.0357 -0.9855 -0.0406 -0.0500
+S-2339	ta@@ -@@ da !
+T-2339	ta@@ -@@ da !
+H-2339	-1.4511350393295288	for@@ !
+D-2339	-1.4511350393295288	for@@ !
+P-2339	-4.1125 -0.1949 -0.0460
+S-2950	wir wissen das .
+T-2950	we know that .
+H-2950	-0.07142826914787292	we know that .
+D-2950	-0.07142826914787292	we know that .
+P-2950	-0.0276 -0.0099 -0.2489 -0.0046 -0.0661
+S-4784	<unk> : danke .
+T-4784	<<unk>> : thank you .
+H-4784	-0.028025615960359573	thank you .
+D-4784	-0.028025615960359573	thank you .
+P-4784	-0.0278 -0.0020 -0.0325 -0.0498
+S-2475	halt zwei@@ mal .
+T-2475	like twice over .
+H-2475	-1.556777834892273	f@@ g .
+D-2475	-1.556777834892273	f@@ g .
+P-2475	-3.5380 -1.8594 -0.7901 -0.0397
+S-3425	ich weiß nicht .
+T-3425	i don &apos;t know .
+H-3425	-0.06759371608495712	i don &apos;t know .
+D-3425	-0.06759371608495712	i don &apos;t know .
+P-3425	-0.0064 -0.0138 -0.0050 -0.0019 -0.3192 -0.0594
+S-3216	<unk> : danke .
+T-3216	<<unk>> : thank you .
+H-3216	-0.028025615960359573	thank you .
+D-3216	-0.028025615960359573	thank you .
+P-3216	-0.0278 -0.0020 -0.0325 -0.0498
+S-1857	ich weiß nicht .
+T-1857	i don &apos;t know .
+H-1857	-0.06759371608495712	i don &apos;t know .
+D-1857	-0.06759371608495712	i don &apos;t know .
+P-1857	-0.0064 -0.0138 -0.0050 -0.0019 -0.3192 -0.0594
+S-4518	wir wissen das .
+T-4518	we know that .
+H-4518	-0.07142826914787292	we know that .
+D-4518	-0.07142826914787292	we know that .
+P-4518	-0.0276 -0.0099 -0.2489 -0.0046 -0.0661
+S-4043	halt zwei@@ mal .
+T-4043	like twice over .
+H-4043	-1.556777834892273	f@@ g .
+D-4043	-1.556777834892273	f@@ g .
+P-4043	-3.5380 -1.8594 -0.7901 -0.0397
+S-3907	ta@@ -@@ da !
+T-3907	ta@@ -@@ da !
+H-3907	-1.4511350393295288	for@@ !
+D-3907	-1.4511350393295288	for@@ !
+P-3907	-4.1125 -0.1949 -0.0460
+S-2396	nun ja ,
+T-2396	yes , well ...
+H-2396	-0.2111591100692749	well , thank you .
+D-2396	-0.2111591100692749	well , thank you .
+P-2396	-0.1434 -0.0193 -0.9708 -0.0051 -0.0861 -0.0423
+S-4718	vielen dank .
+T-4718	thank you .
+H-4718	-0.02891770377755165	thank you .
+D-4718	-0.02891770377755165	thank you .
+P-4718	-0.0011 -0.0029 -0.0498 -0.0619
+S-4717	vielen dank .
+T-4717	thank you .
+H-4717	-0.02891770377755165	thank you .
+D-4717	-0.02891770377755165	thank you .
+P-4717	-0.0011 -0.0029 -0.0498 -0.0619
+S-3677	vielen dank .
+T-3677	thank you .
+H-3677	-0.02891770377755165	thank you .
+D-3677	-0.02891770377755165	thank you .
+P-3677	-0.0011 -0.0029 -0.0498 -0.0619
+S-3150	vielen dank .
+T-3150	thank you .
+H-3150	-0.02891770377755165	thank you .
+D-3150	-0.02891770377755165	thank you .
+P-3150	-0.0011 -0.0029 -0.0498 -0.0619
+S-3149	vielen dank .
+T-3149	thank you .
+H-3149	-0.02891770377755165	thank you .
+D-3149	-0.02891770377755165	thank you .
+P-3149	-0.0011 -0.0029 -0.0498 -0.0619
+S-2109	vielen dank .
+T-2109	thank you .
+H-2109	-0.02891770377755165	thank you .
+D-2109	-0.02891770377755165	thank you .
+P-2109	-0.0011 -0.0029 -0.0498 -0.0619
+S-1161	vielleicht nicht .
+T-1161	maybe not .
+H-1161	-0.9565874338150024	maybe not matter .
+D-1161	-0.9565874338150024	maybe not matter .
+P-1161	-0.0323 -1.5146 -3.1793 -0.0081 -0.0487
+S-1076	vielen dank .
+T-1076	thank you .
+H-1076	-0.02891770377755165	thank you .
+D-1076	-0.02891770377755165	thank you .
+P-1076	-0.0011 -0.0029 -0.0498 -0.0619
+S-1040	vielen dank .
+T-1040	thank you .
+H-1040	-0.02891770377755165	thank you .
+D-1040	-0.02891770377755165	thank you .
+P-1040	-0.0011 -0.0029 -0.0498 -0.0619
+S-1014	vielen dank .
+T-1014	thank you .
+H-1014	-0.02891770377755165	thank you .
+D-1014	-0.02891770377755165	thank you .
+P-1014	-0.0011 -0.0029 -0.0498 -0.0619
+S-273	vielleicht nicht .
+T-273	maybe not .
+H-273	-0.9565874338150024	maybe not matter .
+D-273	-0.9565874338150024	maybe not matter .
+P-273	-0.0323 -1.5146 -3.1793 -0.0081 -0.0487
+S-188	vielen dank .
+T-188	thank you .
+H-188	-0.02891770377755165	thank you .
+D-188	-0.02891770377755165	thank you .
+P-188	-0.0011 -0.0029 -0.0498 -0.0619
+S-152	vielen dank .
+T-152	thank you .
+H-152	-0.02891770377755165	thank you .
+D-152	-0.02891770377755165	thank you .
+P-152	-0.0011 -0.0029 -0.0498 -0.0619
+S-126	vielen dank .
+T-126	thank you .
+H-126	-0.02891770377755165	thank you .
+D-126	-0.02891770377755165	thank you .
+P-126	-0.0011 -0.0029 -0.0498 -0.0619
+S-3546	f@@ ein .
+T-3546	fine .
+H-3546	-0.17259185016155243	f@@ g .
+D-3546	-0.17259185016155243	f@@ g .
+P-3546	-0.0710 -0.3915 -0.1942 -0.0337
+S-1978	f@@ ein .
+T-1978	fine .
+H-1978	-0.17259185016155243	f@@ g .
+D-1978	-0.17259185016155243	f@@ g .
+P-1978	-0.0710 -0.3915 -0.1942 -0.0337
+S-543	vielen dank .
+T-543	thank you so much .
+H-543	-0.02891770377755165	thank you .
+D-543	-0.02891770377755165	thank you .
+P-543	-0.0011 -0.0029 -0.0498 -0.0619
+S-3964	nun ja ,
+T-3964	yes , well ...
+H-3964	-0.2111591100692749	well , thank you .
+D-3964	-0.2111591100692749	well , thank you .
+P-3964	-0.1434 -0.0193 -0.9708 -0.0051 -0.0861 -0.0423
+S-4523	vielen dank .
+T-4523	thank you so much .
+H-4523	-0.02891770377755165	thank you .
+D-4523	-0.02891770377755165	thank you .
+P-4523	-0.0011 -0.0029 -0.0498 -0.0619
+S-3418	vielen dank .
+T-3418	thank you very much .
+H-3418	-0.02891770377755165	thank you .
+D-3418	-0.02891770377755165	thank you .
+P-3418	-0.0011 -0.0029 -0.0498 -0.0619
+S-2955	vielen dank .
+T-2955	thank you so much .
+H-2955	-0.02891770377755165	thank you .
+D-2955	-0.02891770377755165	thank you .
+P-2955	-0.0011 -0.0029 -0.0498 -0.0619
+S-1850	vielen dank .
+T-1850	thank you very much .
+H-1850	-0.02891770377755165	thank you .
+D-1850	-0.02891770377755165	thank you .
+P-1850	-0.0011 -0.0029 -0.0498 -0.0619
+S-1775	vielen dank .
+T-1775	thank you very much .
+H-1775	-0.02891770377755165	thank you .
+D-1775	-0.02891770377755165	thank you .
+P-1775	-0.0011 -0.0029 -0.0498 -0.0619
+S-1595	vielen dank .
+T-1595	thank you very much .
+H-1595	-0.02891770377755165	thank you .
+D-1595	-0.02891770377755165	thank you .
+P-1595	-0.0011 -0.0029 -0.0498 -0.0619
+S-1431	vielen dank .
+T-1431	thank you so much .
+H-1431	-0.02891770377755165	thank you .
+D-1431	-0.02891770377755165	thank you .
+P-1431	-0.0011 -0.0029 -0.0498 -0.0619
+S-1080	vielen dank ,
+T-1080	thank you very much .
+H-1080	-0.1916004717350006	thank you so , thank you .
+D-1080	-0.1916004717350006	thank you so , thank you .
+P-1080	-0.0028 -0.0094 -0.8810 -0.4110 -0.0293 -0.0050 -0.1455 -0.0489
+S-887	vielen dank .
+T-887	thank you very much .
+H-887	-0.02891770377755165	thank you .
+D-887	-0.02891770377755165	thank you .
+P-887	-0.0011 -0.0029 -0.0498 -0.0619
+S-707	vielen dank .
+T-707	thank you very much .
+H-707	-0.02891770377755165	thank you .
+D-707	-0.02891770377755165	thank you .
+P-707	-0.0011 -0.0029 -0.0498 -0.0619
+S-979	vielen dank .
+T-979	thank you very much .
+H-979	-0.02891770377755165	thank you .
+D-979	-0.02891770377755165	thank you .
+P-979	-0.0011 -0.0029 -0.0498 -0.0619
+S-192	vielen dank ,
+T-192	thank you very much .
+H-192	-0.1916004717350006	thank you so , thank you .
+D-192	-0.1916004717350006	thank you so , thank you .
+P-192	-0.0028 -0.0094 -0.8810 -0.4110 -0.0293 -0.0050 -0.1455 -0.0489
+S-91	vielen dank .
+T-91	thank you very much .
+H-91	-0.02891770377755165	thank you .
+D-91	-0.02891770377755165	thank you .
+P-91	-0.0011 -0.0029 -0.0498 -0.0619
+S-4119	im ernst .
+T-4119	no kid@@ ding .
+H-4119	-1.291590690612793	it may be able .
+D-4119	-1.291590690612793	it may be able .
+P-4119	-2.7636 -2.6133 -0.0267 -1.8104 -0.4835 -0.0521
+S-2551	im ernst .
+T-2551	no kid@@ ding .
+H-2551	-1.291590690612793	it may be able .
+D-2551	-1.291590690612793	it may be able .
+P-2551	-2.7636 -2.6133 -0.0267 -1.8104 -0.4835 -0.0521
+S-363	danke .
+T-363	thank you .
+H-363	-0.01596069522202015	thank you .
+D-363	-0.01596069522202015	thank you .
+P-363	-0.0011 -0.0009 -0.0208 -0.0410
+S-1250	danke .
+T-1250	thank you .
+H-1250	-0.01596069522202015	thank you .
+D-1250	-0.01596069522202015	thank you .
+P-1250	-0.0011 -0.0009 -0.0208 -0.0410
+S-1251	danke .
+T-1251	thank you .
+H-1251	-0.01596069522202015	thank you .
+D-1251	-0.01596069522202015	thank you .
+P-1251	-0.0011 -0.0009 -0.0208 -0.0410
+S-2393	ungefähr .
+T-2393	sort of .
+H-2393	-0.5849619507789612	it &apos;s about it .
+D-2393	-0.5849619507789612	it &apos;s about it .
+P-2393	-0.5231 -1.1392 -0.8218 -0.9546 -0.0155 -0.0556
+S-2607	danke .
+T-2607	thank you .
+H-2607	-0.01596069522202015	thank you .
+D-2607	-0.01596069522202015	thank you .
+P-2607	-0.0011 -0.0009 -0.0208 -0.0410
+S-2953	danke .
+T-2953	thank you .
+H-2953	-0.01596069522202015	thank you .
+D-2953	-0.01596069522202015	thank you .
+P-2953	-0.0011 -0.0009 -0.0208 -0.0410
+S-3961	ungefähr .
+T-3961	sort of .
+H-3961	-0.5849619507789612	it &apos;s about it .
+D-3961	-0.5849619507789612	it &apos;s about it .
+P-3961	-0.5231 -1.1392 -0.8218 -0.9546 -0.0155 -0.0556
+S-4175	danke .
+T-4175	thank you .
+H-4175	-0.01596069522202015	thank you .
+D-4175	-0.01596069522202015	thank you .
+P-4175	-0.0011 -0.0009 -0.0208 -0.0410
+S-4521	danke .
+T-4521	thank you .
+H-4521	-0.01596069522202015	thank you .
+D-4521	-0.01596069522202015	thank you .
+P-4521	-0.0011 -0.0009 -0.0208 -0.0410
+S-362	danke .
+T-362	thank you .
+H-362	-0.01596069522202015	thank you .
+D-362	-0.01596069522202015	thank you .
+P-362	-0.0011 -0.0009 -0.0208 -0.0410
+S-3376	wer ist am erfolgrei@@ ch@@ sten ?
+T-3376	who does the very best ?
+H-3376	-0.8790656924247742	who &apos;s the simple ?
+D-3376	-0.8790656924247742	who &apos;s the simple ?
+P-3376	-0.4377 -0.0563 -1.4236 -2.9087 -0.4024 -0.0456
+S-154	sie haben es wirklich gelie@@ bt .
+T-154	they really loved it .
+H-154	-1.3517847061157227	they &apos;re really sophisticated cted .
+D-154	-1.3517847061157227	they &apos;re really sophisticated cted .
+P-154	-1.3276 -0.6371 -0.0676 -4.1725 -2.8547 -0.3411 -0.0618
+S-1042	sie haben es wirklich gelie@@ bt .
+T-1042	they really loved it .
+H-1042	-1.3517847061157227	they &apos;re really sophisticated cted .
+D-1042	-1.3517847061157227	they &apos;re really sophisticated cted .
+P-1042	-1.3276 -0.6371 -0.0676 -4.1725 -2.8547 -0.3411 -0.0618
+S-2259	das ist das span@@ n@@ ende .
+T-2259	this is really exciting .
+H-2259	-0.6153113842010498	that &apos;s the end of the look at it .
+D-2259	-0.6153113842010498	that &apos;s the end of the look at it .
+P-2259	-0.2028 -0.0079 -0.1834 -0.6243 -0.0117 -0.0305 -4.9888 -0.1451 -0.4900 -0.0326 -0.0515
+S-2342	er funktioniert fol@@ gen@@ der@@ maßen :
+T-2342	what happens is this .
+H-2342	-1.0563300848007202	and he goes about it .
+D-2342	-1.0563300848007202	and he goes about it .
+P-2342	-1.7623 -0.1353 -1.8659 -1.7257 -1.2083 -0.6525 -0.0444
+S-2370	das entscheiden@@ de aber ist , ...
+T-2370	but the point is ...
+H-2370	-0.7744585275650024	but the key thing is , ...
+D-2370	-0.7744585275650024	but the key thing is , ...
+P-2370	-1.0618 -1.4639 -1.3840 -0.6825 -0.3925 -0.5595 -0.6035 -0.0480
+S-3827	das ist das span@@ n@@ ende .
+T-3827	this is really exciting .
+H-3827	-0.6153113842010498	that &apos;s the end of the look at it .
+D-3827	-0.6153113842010498	that &apos;s the end of the look at it .
+P-3827	-0.2028 -0.0079 -0.1834 -0.6243 -0.0117 -0.0305 -4.9888 -0.1451 -0.4900 -0.0326 -0.0515
+S-3910	er funktioniert fol@@ gen@@ der@@ maßen :
+T-3910	what happens is this .
+H-3910	-1.0563300848007202	and he goes about it .
+D-3910	-1.0563300848007202	and he goes about it .
+P-3910	-1.7623 -0.1353 -1.8659 -1.7257 -1.2083 -0.6525 -0.0444
+S-3938	das entscheiden@@ de aber ist , ...
+T-3938	but the point is ...
+H-3938	-0.7744585275650024	but the key thing is , ...
+D-3938	-0.7744585275650024	but the key thing is , ...
+P-3938	-1.0618 -1.4639 -1.3840 -0.6825 -0.3925 -0.5595 -0.6035 -0.0480
+S-51	dies passierte um wei@@ <unk> chten .
+T-51	this happened around christ@@ <<unk>> .
+H-51	-0.9399858713150024	this is given ll@@ ing .
+D-51	-0.9399858713150024	this is given ll@@ ing .
+P-51	-0.0456 -0.6359 -1.0172 -3.3303 -1.4891 -0.0130 -0.0488
+S-209	so ungefähr , sie wissen schon .
+T-209	like that , you know .
+H-209	-0.26939088106155396	so , you know , you know , you know .
+D-209	-0.26939088106155396	so , you know , you know , you know .
+P-209	-0.4855 -1.5544 -0.0115 -0.0085 -0.0424 -0.0672 -0.0927 -0.2720 -0.0970 -0.3196 -0.2208 -0.0613
+S-299	was ist das für ein ding ?
+T-299	and what is that thing ?
+H-299	-0.6529362201690674	what &apos;s this thing for this ?
+D-299	-0.6529362201690674	what &apos;s this thing for this ?
+P-299	-0.0378 -0.0481 -0.1524 -1.0540 -0.0946 -3.4858 -0.3227 -0.0282
+S-855	sie hätten es besser tun können .
+T-855	you could have done better .
+H-855	-0.7486255168914795	you could do it .
+D-855	-0.7486255168914795	you could do it .
+P-855	-0.8423 -0.1834 -2.1851 -0.0001 -1.1932 -0.0876
+S-939	dies passierte um wei@@ <unk> chten .
+T-939	this happened around christ@@ <<unk>> .
+H-939	-0.9399858713150024	this is given ll@@ ing .
+D-939	-0.9399858713150024	this is given ll@@ ing .
+P-939	-0.0456 -0.6359 -1.0172 -3.3303 -1.4891 -0.0130 -0.0488
+S-1187	was ist das für ein ding ?
+T-1187	and what is that thing ?
+H-1187	-0.6529362201690674	what &apos;s this thing for this ?
+D-1187	-0.6529362201690674	what &apos;s this thing for this ?
+P-1187	-0.0378 -0.0481 -0.1524 -1.0540 -0.0946 -3.4858 -0.3227 -0.0282
+S-1097	so ungefähr , sie wissen schon .
+T-1097	like that , you know .
+H-1097	-0.26939088106155396	so , you know , you know , you know .
+D-1097	-0.26939088106155396	so , you know , you know , you know .
+P-1097	-0.4855 -1.5544 -0.0115 -0.0085 -0.0424 -0.0672 -0.0927 -0.2720 -0.0970 -0.3196 -0.2208 -0.0613
+S-3290	mal ehrlich - wer ist normal ?
+T-3290	now , who &apos;s normal ?
+H-3290	-1.284793734550476	each one -- who &apos;s computers ?
+D-3290	-1.284793734550476	each one -- who &apos;s computers ?
+P-3290	-2.5536 -1.3689 -0.0897 -0.8700 -0.4762 -4.8096 -0.0690 -0.0413
+S-2858	und hier ist eine überrasch@@ ung :
+T-2858	and here is a surprise .
+H-2858	-0.5946083068847656	and here &apos;s a surprise of surprise .
+D-2858	-0.5946083068847656	and here &apos;s a surprise of surprise .
+P-2858	-0.3462 -0.6038 -0.0234 -0.6503 -0.0826 -0.2382 -1.1918 -2.1596 -0.0554
+S-2594	sie wollen die welt ernä@@ hren ?
+T-2594	want to feed the world ?
+H-2594	-0.8616641163825989	they want to live off the world ?
+D-2594	-0.8616641163825989	they want to live off the world ?
+P-2594	-0.2184 -0.0108 -0.0728 -3.9154 -2.5060 -0.0099 -0.9304 -0.0383 -0.0529
+S-2437	ich wollte sie unterstü@@ tz@@ ten .
+T-2437	i wanted to support them .
+H-2437	-1.0051746368408203	i wanted to been on this .
+D-2437	-1.0051746368408203	i wanted to been on this .
+P-2437	-0.0414 -0.0150 -0.0291 -4.7688 -1.4281 -0.7683 -0.8752 -0.1155
+S-2429	es ist fast nichts mehr übrig .
+T-2429	there &apos;s almost nothing left .
+H-2429	-0.6736181378364563	it &apos;s almost more .
+D-2429	-0.6736181378364563	it &apos;s almost more .
+P-2429	-0.1182 -0.0040 -0.4019 -0.1401 -3.3251 -0.0524
+S-2416	ich habe nur zwei gelie@@ bt .
+T-2416	i &apos;ve loved only two .
+H-2416	-1.064699649810791	i &apos;ve only two ts .
+D-2416	-1.064699649810791	i &apos;ve only two ts .
+P-2416	-0.0393 -0.9571 -0.5896 -1.3132 -4.3691 -0.1356 -0.0491
+S-2220	und letztendlich , ep@@ ische bedeutung .
+T-2220	finally : ep@@ ic meaning .
+H-2220	-0.8422122001647949	and day , there &apos;s a lot of meaning .
+D-2220	-0.8422122001647949	and day , there &apos;s a lot of meaning .
+P-2220	-0.0774 -2.4084 -0.0386 -2.5234 -0.7138 -0.0317 -0.3181 -0.0070 -2.9385 -0.1383 -0.0692
+S-1906	die gleiche sache , nur größer .
+T-1906	same thing , only bigger .
+H-1906	-0.838964581489563	the same thing that &apos;s just more organized .
+D-1906	-0.838964581489563	the same thing that &apos;s just more organized .
+P-1906	-0.2046 -0.0126 -0.1431 -0.1604 -1.4476 -1.3742 -0.6283 -4.3269 -0.0251 -0.0666
+S-1808	wer ist am erfolgrei@@ ch@@ sten ?
+T-1808	who does the very best ?
+H-1808	-0.8790656924247742	who &apos;s the simple ?
+D-1808	-0.8790656924247742	who &apos;s the simple ?
+P-1808	-0.4377 -0.0563 -1.4236 -2.9087 -0.4024 -0.0456
+S-1743	sie hätten es besser tun können .
+T-1743	you could have done better .
+H-1743	-0.7486255168914795	you could do it .
+D-1743	-0.7486255168914795	you could do it .
+P-1743	-0.8423 -0.1834 -2.1851 -0.0001 -1.1932 -0.0876
+S-278	warum nicht so darüber denken ?
+T-278	why not think about it this way ?
+H-278	-0.5764436721801758	so why don &apos;t think about think ?
+D-278	-0.5764436721801758	so why don &apos;t think about think ?
+P-278	-2.1976 -0.5536 -0.2936 -0.0115 -0.3242 -0.0321 -1.6704 -0.0651 -0.0399
+S-4634	wer wird es sicher@@ stellen ?
+T-4634	who &apos;s going to be sure ?
+H-4634	-0.8976114392280579	ok , who will it ?
+D-4634	-0.8976114392280579	ok , who will it ?
+P-4634	-3.3855 -0.0386 -1.4147 -1.0510 -0.1699 -0.1825 -0.0411
+S-4587	zuerst haben wir die bevölkerung .
+T-4587	first , we &apos;ve got population .
+H-4587	-1.0756795406341553	first , we have to learn the first thing .
+D-4587	-1.0756795406341553	first , we have to learn the first thing .
+P-4587	-0.1383 -1.4156 -0.0179 -0.1151 -2.3097 -3.2581 -1.6176 -1.0395 -1.7612 -0.0873 -0.0722
+S-4539	das gilt nicht für emotionen .
+T-4539	that does not hold for emotions .
+H-4539	-1.2373631000518799	that &apos;s not for any rest of it .
+D-4539	-1.2373631000518799	that &apos;s not for any rest of it .
+P-4539	-3.2592 -0.1388 -0.0019 -1.7373 -0.8880 -4.7364 -0.0136 -1.4888 -0.0349 -0.0748
+S-4151	ich mag diese frage nicht .
+T-4151	i don &apos;t love that question .
+H-4151	-0.28847751021385193	i like this question .
+D-4151	-0.28847751021385193	i like this question .
+P-4151	-0.0094 -1.2994 -0.3029 -0.0023 -0.0457 -0.0713
+S-4086	aber was essen <unk> fische ?
+T-4086	but what are your fish eating ?
+H-4086	-1.1046901941299438	but what is it re@@ medi@@ ation ?
+D-4086	-1.1046901941299438	but what is it re@@ medi@@ ation ?
+P-4086	-0.0012 -0.1291 -1.8278 -1.1190 -2.2928 -4.0375 -0.4877 -0.0011 -0.0458
+S-4022	nennen wir ihn ebenfalls don .
+T-4022	let &apos;s call him don too .
+H-4022	-0.9420908689498901	we call it .
+D-4022	-0.9420908689498901	we call it .
+P-4022	-0.4345 -1.0629 -1.8483 -1.2844 -0.0804
+S-3880	ich möchte sie etwas fragen .
+T-3880	i want to ask a question .
+H-3880	-0.5922347903251648	i want to want to ask something .
+D-3880	-0.5922347903251648	i want to want to ask something .
+P-3880	-0.3602 -0.0050 -0.0155 -1.6854 -0.6123 -0.6628 -1.2230 -0.6740 -0.0918
+S-3855	das spiel ist von <unk> .
+T-3855	we made this game in <<unk>> .
+H-3855	-0.43032148480415344	that is fore@@ play .
+D-3855	-0.43032148480415344	that is fore@@ play .
+P-3855	-0.4057 -0.6854 -0.5589 -0.0796 -0.7933 -0.0590
+S-3527	er heißt paul off@@ it .
+T-3527	his name is paul off@@ it .
+H-3527	-1.6383440494537354	he &apos;s been called it by the con@@ sh@@ d .
+D-3527	-1.6383440494537354	he &apos;s been called it by the con@@ sh@@ d .
+P-3527	-0.0442 -0.6000 -1.5182 -4.1371 -1.8612 -1.9001 -0.8665 -3.9026 -1.8523 -2.9106 -0.0095 -0.0577
+S-3398	was glauben sie passierte nun ?
+T-3398	what do you think happened then ?
+H-3398	-0.19472844898700714	what do you get it ?
+D-3398	-0.19472844898700714	what do you get it ?
+P-3398	-0.0220 -0.3439 -0.0133 -0.6456 -0.2261 -0.0081 -0.1041
+S-3066	wer wird es sicher@@ stellen ?
+T-3066	who &apos;s going to be sure ?
+H-3066	-0.8976114392280579	ok , who will it ?
+D-3066	-0.8976114392280579	ok , who will it ?
+P-3066	-3.3855 -0.0386 -1.4147 -1.0510 -0.1699 -0.1825 -0.0411
+S-3019	zuerst haben wir die bevölkerung .
+T-3019	first , we &apos;ve got population .
+H-3019	-1.0756795406341553	first , we have to learn the first thing .
+D-3019	-1.0756795406341553	first , we have to learn the first thing .
+P-3019	-0.1383 -1.4156 -0.0179 -0.1151 -2.3097 -3.2581 -1.6176 -1.0395 -1.7612 -0.0873 -0.0722
+S-2971	das gilt nicht für emotionen .
+T-2971	that does not hold for emotions .
+H-2971	-1.2373631000518799	that &apos;s not for any rest of it .
+D-2971	-1.2373631000518799	that &apos;s not for any rest of it .
+P-2971	-3.2592 -0.1388 -0.0019 -1.7373 -0.8880 -4.7364 -0.0136 -1.4888 -0.0349 -0.0748
+S-2583	ich mag diese frage nicht .
+T-2583	i don &apos;t love that question .
+H-2583	-0.28847751021385193	i like this question .
+D-2583	-0.28847751021385193	i like this question .
+P-2583	-0.0094 -1.2994 -0.3029 -0.0023 -0.0457 -0.0713
+S-2518	aber was essen <unk> fische ?
+T-2518	but what are your fish eating ?
+H-2518	-1.1046901941299438	but what is it re@@ medi@@ ation ?
+D-2518	-1.1046901941299438	but what is it re@@ medi@@ ation ?
+P-2518	-0.0012 -0.1291 -1.8278 -1.1190 -2.2928 -4.0375 -0.4877 -0.0011 -0.0458
+S-2454	nennen wir ihn ebenfalls don .
+T-2454	let &apos;s call him don too .
+H-2454	-0.9420908689498901	we call it .
+D-2454	-0.9420908689498901	we call it .
+P-2454	-0.4345 -1.0629 -1.8483 -1.2844 -0.0804
+S-2287	das spiel ist von <unk> .
+T-2287	we made this game in <<unk>> .
+H-2287	-0.43032148480415344	that is fore@@ play .
+D-2287	-0.43032148480415344	that is fore@@ play .
+P-2287	-0.4057 -0.6854 -0.5589 -0.0796 -0.7933 -0.0590
+S-2312	ich möchte sie etwas fragen .
+T-2312	i want to ask a question .
+H-2312	-0.5922347903251648	i want to want to ask something .
+D-2312	-0.5922347903251648	i want to want to ask something .
+P-2312	-0.3602 -0.0050 -0.0155 -1.6854 -0.6123 -0.6628 -1.2230 -0.6740 -0.0918
+S-3140	was müssen wir also tun ?
+T-3140	so , what do we have to do ?
+H-3140	-0.3228852152824402	so what do we do ?
+D-3140	-0.3228852152824402	so what do we do ?
+P-3140	-0.0152 -0.2895 -0.1564 -0.3720 -1.3278 -0.0177 -0.0815
+S-3879	ich komme nun zum ende .
+T-3879	so , i &apos;m going to w@@ ra@@ p up now .
+H-3879	-0.8385846614837646	and i will end at the end of this .
+D-3879	-0.8385846614837646	and i will end at the end of this .
+P-3879	-0.8345 -0.9173 -1.9528 -0.4766 -2.4358 -0.1386 -0.3884 -0.0875 -1.8151 -0.1266 -0.0513
+S-2311	ich komme nun zum ende .
+T-2311	so , i &apos;m going to w@@ ra@@ p up now .
+H-2311	-0.8385846614837646	and i will end at the end of this .
+D-2311	-0.8385846614837646	and i will end at the end of this .
+P-2311	-0.8345 -0.9173 -1.9528 -0.4766 -2.4358 -0.1386 -0.3884 -0.0875 -1.8151 -0.1266 -0.0513
+S-3747	es klingt vielleicht ü@@ bel .
+T-3747	it might sound like it &apos;s a bad thing .
+H-3747	-1.0639843940734863	maybe it &apos;s possible .
+D-3747	-1.0639843940734863	maybe it &apos;s possible .
+P-3747	-1.3456 -0.1374 -1.3620 -2.2768 -1.2047 -0.0574
+S-2179	es klingt vielleicht ü@@ bel .
+T-2179	it might sound like it &apos;s a bad thing .
+H-2179	-1.0639843940734863	maybe it &apos;s possible .
+D-2179	-1.0639843940734863	maybe it &apos;s possible .
+P-2179	-1.3456 -0.1374 -1.3620 -2.2768 -1.2047 -0.0574
+S-1057	... seine eigene geschichte erfinden .
+T-1057	d@@ m : inv@@ enting his own <<unk>> tive .
+H-1057	-1.3356744050979614	his ...
+D-1057	-1.3356744050979614	his ...
+P-1057	-0.5252 -3.1057 -0.3761
+S-169	... seine eigene geschichte erfinden .
+T-169	d@@ m : inv@@ enting his own <<unk>> tive .
+H-169	-1.3356744050979614	his ...
+D-169	-1.3356744050979614	his ...
+P-169	-0.5252 -3.1057 -0.3761
+S-4848	aus <unk> kten entsteht kreativität .
+T-4848	<<unk>> is the gen@@ es@@ is of creation .
+H-4848	-1.392646074295044	there &apos;s no way .
+D-4848	-1.392646074295044	there &apos;s no way .
+P-4848	-1.6618 -1.2919 -0.4953 -4.4853 -0.3717 -0.0499
+S-4708	was müssen wir also tun ?
+T-4708	so , what do we have to do ?
+H-4708	-0.3228852152824402	so what do we do ?
+D-4708	-0.3228852152824402	so what do we do ?
+P-4708	-0.0152 -0.2895 -0.1564 -0.3720 -1.3278 -0.0177 -0.0815
+S-3280	aus <unk> kten entsteht kreativität .
+T-3280	<<unk>> is the gen@@ es@@ is of creation .
+H-3280	-1.392646074295044	there &apos;s no way .
+D-3280	-1.392646074295044	there &apos;s no way .
+P-3280	-1.6618 -1.2919 -0.4953 -4.4853 -0.3717 -0.0499
+S-747	was wollen sie tun ? &quot;
+T-747	what do you want to do ? &quot;
+H-747	-0.1667296290397644	what do you want ? &quot;
+D-747	-0.1667296290397644	what do you want ? &quot;
+P-747	-0.1149 -0.0067 -0.0655 -0.6997 -0.1979 -0.0077 -0.0747
+S-4714	wir müssen die <unk> verbreiten .
+T-4714	we need to get the message out .
+H-4714	-0.9971853494644165	we need to create the way .
+D-4714	-0.9971853494644165	we need to create the way .
+P-4714	-0.2807 -1.0042 -0.0032 -2.2405 -0.3699 -3.7910 -0.1848 -0.1032
+S-3832	das klingt verrückt , oder ?
+T-3832	now , this sounds crazy , right ?
+H-3832	-1.104048490524292	so , is it going to happen ?
+D-3832	-1.104048490524292	so , is it going to happen ?
+P-3832	-0.1991 -2.1934 -2.4658 -0.1702 -1.3659 -0.2244 -3.1239 -0.1489 -0.0450
+S-3596	das wollen sie nicht machen ?
+T-3596	you don &apos;t want to do that ?
+H-3596	-0.453106164932251	don &apos;t you want to do this ?
+D-3596	-0.453106164932251	don &apos;t you want to do this ?
+P-3596	-1.6774 -0.0016 -1.5197 -0.0149 -0.1620 -0.0575 -0.5845 -0.0087 -0.0516
+S-3146	wir müssen die <unk> verbreiten .
+T-3146	we need to get the message out .
+H-3146	-0.9971853494644165	we need to create the way .
+D-3146	-0.9971853494644165	we need to create the way .
+P-3146	-0.2807 -1.0042 -0.0032 -2.2405 -0.3699 -3.7910 -0.1848 -0.1032
+S-2264	das klingt verrückt , oder ?
+T-2264	now , this sounds crazy , right ?
+H-2264	-1.104048490524292	so , is it going to happen ?
+D-2264	-1.104048490524292	so , is it going to happen ?
+P-2264	-0.1991 -2.1934 -2.4658 -0.1702 -1.3659 -0.2244 -3.1239 -0.1489 -0.0450
+S-2028	das wollen sie nicht machen ?
+T-2028	you don &apos;t want to do that ?
+H-2028	-0.453106164932251	don &apos;t you want to do this ?
+D-2028	-0.453106164932251	don &apos;t you want to do this ?
+P-2028	-1.6774 -0.0016 -1.5197 -0.0149 -0.1620 -0.0575 -0.5845 -0.0087 -0.0516
+S-1635	was wollen sie tun ? &quot;
+T-1635	what do you want to do ? &quot;
+H-1635	-0.1667296290397644	what do you want ? &quot;
+D-1635	-0.1667296290397644	what do you want ? &quot;
+P-1635	-0.1149 -0.0067 -0.0655 -0.6997 -0.1979 -0.0077 -0.0747
+S-1166	warum nicht so darüber denken ?
+T-1166	why not think about it this way ?
+H-1166	-0.5764436721801758	so why don &apos;t think about think ?
+D-1166	-0.5764436721801758	so why don &apos;t think about think ?
+P-1166	-2.1976 -0.5536 -0.2936 -0.0115 -0.3242 -0.0321 -1.6704 -0.0651 -0.0399
+S-1907	die leute spiel@@ ten verrückt .
+T-1907	people were going crazy .
+H-1907	-1.166365385055542	people forget the young people .
+D-1907	-1.166365385055542	people forget the young people .
+P-1907	-0.4270 -3.1437 -0.9630 -3.4152 -0.0099 -0.1397 -0.0661
+S-832	aber ich fühlte mich schlechter .
+T-832	but -- i felt worse .
+H-832	-1.2362626791000366	but i am not ; i felt all .
+D-832	-1.2362626791000366	but i am not ; i felt all .
+P-832	-0.0263 -0.1235 -4.0096 -1.8369 -2.1417 -0.3817 -2.8551 -0.8167 -0.1048 -0.0664
+S-808	sehr <unk> im@@ mobili@@ en .
+T-808	very expensive real est@@ ate .
+H-808	-1.0942034721374512	very medi@@ ation .
+D-808	-1.0942034721374512	very medi@@ ation .
+P-808	-0.7162 -3.9768 -0.5972 -0.1225 -0.0583
+S-229	fühlen sie sich damit wohl ?
+T-229	are you comfortable with that ?
+H-229	-1.0045710802078247	are you going to figure out it ?
+D-229	-1.0045710802078247	are you going to figure out it ?
+P-229	-1.2086 -1.5433 -1.4331 -0.1854 -2.7388 -1.3383 -0.5419 -0.0006 -0.0512
+S-212	und die hatte ich immer .
+T-212	and i always have been .
+H-212	-0.8165642619132996	and i had the speech .
+D-212	-0.8165642619132996	and i had the speech .
+P-212	-0.2569 -0.4411 -0.0575 -2.0798 -2.4999 -0.3114 -0.0693
+S-4401	aber das hatte es nicht .
+T-4401	but it hadn &apos;t .
+H-4401	-0.43383508920669556	but it didn &apos;t know it .
+D-4401	-0.43383508920669556	but it didn &apos;t know it .
+P-4401	-0.0829 -0.8077 -0.4858 -0.0059 -1.3523 -0.6694 -0.0055 -0.0611
+S-4305	eine unge@@ he@@ ure herausforderung .
+T-4305	tremend@@ ously <<unk>> ing .
+H-4305	-1.5648484230041504	a business -- from an challenge .
+D-4305	-1.5648484230041504	a business -- from an challenge .
+P-4305	-0.7881 -3.4194 -1.8015 -2.4947 -1.6417 -2.3024 -0.0074 -0.0636
+S-4091	es gibt kein fu@@ tter .
+T-4091	there is no feed .
+H-4091	-0.7561683058738708	there &apos;s not the way .
+D-4091	-0.7561683058738708	there &apos;s not the way .
+P-4091	-0.5376 -1.7194 -0.0122 -1.9756 -0.8277 -0.1455 -0.0752
+S-3503	die daten kamen her@@ ein .
+T-3503	the data came back .
+H-3503	-0.3006615936756134	the data came out .
+D-3503	-0.3006615936756134	the data came out .
+P-3503	-0.0309 -0.2597 -0.6950 -0.6812 -0.0936 -0.0436
+S-3475	die leute spiel@@ ten verrückt .
+T-3475	people were going crazy .
+H-3475	-1.166365385055542	people forget the young people .
+D-3475	-1.166365385055542	people forget the young people .
+P-3475	-0.4270 -3.1437 -0.9630 -3.4152 -0.0099 -0.1397 -0.0661
+S-3427	und das verste@@ he ich .
+T-3427	and i understand that .
+H-3427	-0.9897527694702148	and this is me , i &apos;m going to make it .
+D-3427	-0.9897527694702148	and this is me , i &apos;m going to make it .
+P-3427	-0.0758 -1.5585 -2.3470 -1.3639 -1.7745 -0.0701 -0.7848 -2.6988 -0.4912 -1.1764 -0.2330 -0.2116 -0.0811
+S-2833	aber das hatte es nicht .
+T-2833	but it hadn &apos;t .
+H-2833	-0.43383508920669556	but it didn &apos;t know it .
+D-2833	-0.43383508920669556	but it didn &apos;t know it .
+P-2833	-0.0829 -0.8077 -0.4858 -0.0059 -1.3523 -0.6694 -0.0055 -0.0611
+S-2737	eine unge@@ he@@ ure herausforderung .
+T-2737	tremend@@ ously <<unk>> ing .
+H-2737	-1.5648484230041504	a business -- from an challenge .
+D-2737	-1.5648484230041504	a business -- from an challenge .
+P-2737	-0.7881 -3.4194 -1.8015 -2.4947 -1.6417 -2.3024 -0.0074 -0.0636
+S-2523	es gibt kein fu@@ tter .
+T-2523	there is no feed .
+H-2523	-0.7561683058738708	there &apos;s not the way .
+D-2523	-0.7561683058738708	there &apos;s not the way .
+P-2523	-0.5376 -1.7194 -0.0122 -1.9756 -0.8277 -0.1455 -0.0752
+S-1935	die daten kamen her@@ ein .
+T-1935	the data came back .
+H-1935	-0.3006615936756134	the data came out .
+D-1935	-0.3006615936756134	the data came out .
+P-1935	-0.0309 -0.2597 -0.6950 -0.6812 -0.0936 -0.0436
+S-1959	er heißt paul off@@ it .
+T-1959	his name is paul off@@ it .
+H-1959	-1.6383440494537354	he &apos;s been called it by the con@@ sh@@ d .
+D-1959	-1.6383440494537354	he &apos;s been called it by the con@@ sh@@ d .
+P-1959	-0.0442 -0.6000 -1.5182 -4.1371 -1.8612 -1.9001 -0.8665 -3.9026 -1.8523 -2.9106 -0.0095 -0.0577
+S-1859	und das verste@@ he ich .
+T-1859	and i understand that .
+H-1859	-0.9897527694702148	and this is me , i &apos;m going to make it .
+D-1859	-0.9897527694702148	and this is me , i &apos;m going to make it .
+P-1859	-0.0758 -1.5585 -2.3470 -1.3639 -1.7745 -0.0701 -0.7848 -2.6988 -0.4912 -1.1764 -0.2330 -0.2116 -0.0811
+S-1704	hier ist ein weiteres beispiel .
+T-1704	here &apos;s another example .
+H-1704	-0.4839427173137665	here &apos;s a example here .
+D-1704	-0.4839427173137665	here &apos;s a example here .
+P-1704	-0.0395 -0.0491 -0.2589 -2.2006 -0.6183 -0.1683 -0.0529
+S-1082	ich bin schrift@@ stell@@ erin .
+T-1082	i am a writer .
+H-1082	-1.3753069639205933	i &apos;m very complex ty .
+D-1082	-1.3753069639205933	i &apos;m very complex ty .
+P-1082	-0.0244 -1.0235 -2.7253 -1.9771 -3.7865 -0.0338 -0.0564
+S-816	hier ist ein weiteres beispiel .
+T-816	here &apos;s another example .
+H-816	-0.4839427173137665	here &apos;s a example here .
+D-816	-0.4839427173137665	here &apos;s a example here .
+P-816	-0.0395 -0.0491 -0.2589 -2.2006 -0.6183 -0.1683 -0.0529
+S-194	ich bin schrift@@ stell@@ erin .
+T-194	i am a writer .
+H-194	-1.3753069639205933	i &apos;m very complex ty .
+D-194	-1.3753069639205933	i &apos;m very complex ty .
+P-194	-0.0244 -1.0235 -2.7253 -1.9771 -3.7865 -0.0338 -0.0564
+S-4304	unge@@ heu@@ er aufre@@ gend .
+T-4304	tremend@@ ously exciting .
+H-4304	-1.0759073495864868	he &apos;s exciting to look at it .
+D-4304	-1.0759073495864868	he &apos;s exciting to look at it .
+P-4304	-0.3031 -3.4463 -1.0812 -0.2754 -2.9559 -0.2092 -1.3305 -0.0195 -0.0620
+S-2736	unge@@ heu@@ er aufre@@ gend .
+T-2736	tremend@@ ously exciting .
+H-2736	-1.0759073495864868	he &apos;s exciting to look at it .
+D-2736	-1.0759073495864868	he &apos;s exciting to look at it .
+P-2736	-0.3031 -3.4463 -1.0812 -0.2754 -2.9559 -0.2092 -1.3305 -0.0195 -0.0620
+S-1761	sie tun sogar we@@ h .
+T-1761	they actually <<unk>> .
+H-1761	-1.071346402168274	they &apos;ll do it as well .
+D-1761	-1.071346402168274	they &apos;ll do it as well .
+P-1761	-0.6243 -1.2451 -0.7643 -1.9410 -3.5787 -0.2347 -0.1151 -0.0676
+S-1335	warum sollten wir das tun ?
+T-1335	why do this ?
+H-1335	-0.32753872871398926	why should we do it ?
+D-1335	-0.32753872871398926	why should we do it ?
+P-1335	-0.0453 -0.5438 -1.0726 -0.1421 -0.4171 -0.0023 -0.0695
+S-873	sie tun sogar we@@ h .
+T-873	they actually <<unk>> .
+H-873	-1.071346402168274	they &apos;ll do it as well .
+D-873	-1.071346402168274	they &apos;ll do it as well .
+P-873	-0.6243 -1.2451 -0.7643 -1.9410 -3.5787 -0.2347 -0.1151 -0.0676
+S-447	warum sollten wir das tun ?
+T-447	why do this ?
+H-447	-0.32753872871398926	why should we do it ?
+D-447	-0.32753872871398926	why should we do it ?
+P-447	-0.0453 -0.5438 -1.0726 -0.1421 -0.4171 -0.0023 -0.0695
+S-3888	dank@@ es@@ ch@@ ö@@ n .
+T-3888	thank you .
+H-3888	-1.6974011659622192	for@@ bu@@ g .
+D-3888	-1.6974011659622192	for@@ bu@@ g .
+P-3888	-4.4892 -1.7364 -1.2288 -0.9977 -0.0350
+S-2320	dank@@ es@@ ch@@ ö@@ n .
+T-2320	thank you .
+H-2320	-1.6974011659622192	for@@ bu@@ g .
+D-2320	-1.6974011659622192	for@@ bu@@ g .
+P-2320	-4.4892 -1.7364 -1.2288 -0.9977 -0.0350
+S-1117	fühlen sie sich damit wohl ?
+T-1117	are you comfortable with that ?
+H-1117	-1.0045710802078247	are you going to figure out it ?
+D-1117	-1.0045710802078247	are you going to figure out it ?
+P-1117	-1.2086 -1.5433 -1.4331 -0.1854 -2.7388 -1.3383 -0.5419 -0.0006 -0.0512
+S-1830	was glauben sie passierte nun ?
+T-1830	what do you think happened then ?
+H-1830	-0.19472844898700714	what do you get it ?
+D-1830	-0.19472844898700714	what do you get it ?
+P-1830	-0.0220 -0.3439 -0.0133 -0.6456 -0.2261 -0.0081 -0.1041
+S-1537	also , was bedeutet das ?
+T-1537	well , what does that mean ?
+H-1537	-0.551664412021637	so what is this ?
+D-1537	-0.551664412021637	so what is this ?
+P-1537	-0.0434 -0.4577 -2.1881 -0.2067 -0.3468 -0.0673
+S-1516	nun , was bedeutet das ?
+T-1516	now , what does that mean ?
+H-1516	-0.4627697467803955	well , what is this ?
+D-1516	-0.4627697467803955	well , what is this ?
+P-1516	-0.4297 -0.0461 -0.0077 -2.1968 -0.4288 -0.0769 -0.0534
+S-649	also , was bedeutet das ?
+T-649	well , what does that mean ?
+H-649	-0.551664412021637	so what is this ?
+D-649	-0.551664412021637	so what is this ?
+P-649	-0.0434 -0.4577 -2.1881 -0.2067 -0.3468 -0.0673
+S-628	nun , was bedeutet das ?
+T-628	now , what does that mean ?
+H-628	-0.4627697467803955	well , what is this ?
+D-628	-0.4627697467803955	well , what is this ?
+P-628	-0.4297 -0.0461 -0.0077 -2.1968 -0.4288 -0.0769 -0.0534
+S-4861	ich denke , eher nicht .
+T-4861	i don &apos;t think so .
+H-4861	-0.5122714638710022	i don &apos;t think it .
+D-4861	-0.5122714638710022	i don &apos;t think it .
+P-4861	-0.2132 -0.3311 -0.0181 -0.0102 -1.9438 -1.0082 -0.0612
+S-4532	d@@ k : 6@@ 0.000 .
+T-4532	d@@ k : 6@@ 0,000 .
+H-4532	-0.29846662282943726	d@@ r : no .
+D-4532	-0.29846662282943726	d@@ r : no .
+P-4532	-0.0042 -0.0951 -0.0174 -1.5359 -0.1032 -0.0349
+S-4417	es gibt eine alte studie .
+T-4417	this is an old study .
+H-4417	-0.5273765325546265	there &apos;s a few examples .
+D-4417	-0.5273765325546265	there &apos;s a few examples .
+P-4417	-0.0332 -0.5954 -0.0738 -1.2172 -1.4838 -0.2251 -0.0631
+S-4403	er hatte die erfahrung <unk> .
+T-4403	he had had the experience .
+H-4403	-0.6130468249320984	he had a experience of experience .
+D-4403	-0.6130468249320984	he had a experience of experience .
+P-4403	-0.0269 -0.1149 -2.6400 -0.5505 -1.3059 -0.1526 -0.0461 -0.0675
+S-4248	das ist echt cool . &quot;
+T-4248	this is really cool . &quot;
+H-4248	-0.38117241859436035	that &apos;s cool . &quot;
+D-4248	-0.38117241859436035	that &apos;s cool . &quot;
+P-4248	-0.3982 -0.0171 -1.3386 -0.4686 -0.0458 -0.0187
+S-3977	ja , hier ist es .
+T-3977	yes , there it is .
+H-3977	-0.2224225550889969	yes , it &apos;s here .
+D-3977	-0.2224225550889969	yes , it &apos;s here .
+P-3977	-0.2175 -0.0529 -0.0416 -0.0569 -1.0731 -0.0566 -0.0582
+S-3561	ich stimme ihnen völlig zu .
+T-3561	i &apos;m totally with you .
+H-3561	-0.80821692943573	i &apos;ll give you to show you .
+D-3561	-0.80821692943573	i &apos;ll give you to show you .
+P-3561	-0.1394 -1.2855 -1.8839 -0.0477 -1.7444 -1.9774 -0.0612 -0.0738 -0.0606
+S-3441	und warum ist das so ?
+T-3441	and why is it true ?
+H-3441	-0.3637097179889679	so why is this ?
+D-3441	-0.3637097179889679	so why is this ?
+P-3441	-1.2447 -0.0842 -0.0579 -0.7408 -0.0057 -0.0490
+S-3293	ich denke , eher nicht .
+T-3293	i don &apos;t think so .
+H-3293	-0.5122714638710022	i don &apos;t think it .
+D-3293	-0.5122714638710022	i don &apos;t think it .
+P-3293	-0.2132 -0.3311 -0.0181 -0.0102 -1.9438 -1.0082 -0.0612
+S-1100	und die hatte ich immer .
+T-1100	and i always have been .
+H-1100	-0.8165642619132996	and i had the speech .
+D-1100	-0.8165642619132996	and i had the speech .
+P-1100	-0.2569 -0.4411 -0.0575 -2.0798 -2.4999 -0.3114 -0.0693
+S-1696	sehr <unk> im@@ mobili@@ en .
+T-1696	very expensive real est@@ ate .
+H-1696	-1.0942034721374512	very medi@@ ation .
+D-1696	-1.0942034721374512	very medi@@ ation .
+P-1696	-0.7162 -3.9768 -0.5972 -0.1225 -0.0583
+S-1720	aber ich fühlte mich schlechter .
+T-1720	but -- i felt worse .
+H-1720	-1.2362626791000366	but i am not ; i felt all .
+D-1720	-1.2362626791000366	but i am not ; i felt all .
+P-1720	-0.0263 -0.1235 -4.0096 -1.8369 -2.1417 -0.3817 -2.8551 -0.8167 -0.1048 -0.0664
+S-1792	und das ist ziemlich erstaunlich .
+T-1792	and it &apos;s pretty amazing .
+H-1792	-0.6298735737800598	and this is very amazing .
+D-1792	-0.6298735737800598	and this is very amazing .
+P-1792	-0.1154 -0.6735 -0.0028 -0.7997 -2.1797 -0.5640 -0.0739
+S-1873	und warum ist das so ?
+T-1873	and why is it true ?
+H-1873	-0.3637097179889679	so why is this ?
+D-1873	-0.3637097179889679	so why is this ?
+P-1873	-1.2447 -0.0842 -0.0579 -0.7408 -0.0057 -0.0490
+S-1993	ich stimme ihnen völlig zu .
+T-1993	i &apos;m totally with you .
+H-1993	-0.80821692943573	i &apos;ll give you to show you .
+D-1993	-0.80821692943573	i &apos;ll give you to show you .
+P-1993	-0.1394 -1.2855 -1.8839 -0.0477 -1.7444 -1.9774 -0.0612 -0.0738 -0.0606
+S-2409	ja , hier ist es .
+T-2409	yes , there it is .
+H-2409	-0.2224225550889969	yes , it &apos;s here .
+D-2409	-0.2224225550889969	yes , it &apos;s here .
+P-2409	-0.2175 -0.0529 -0.0416 -0.0569 -1.0731 -0.0566 -0.0582
+S-2680	das ist echt cool . &quot;
+T-2680	this is really cool . &quot;
+H-2680	-0.38117241859436035	that &apos;s cool . &quot;
+D-2680	-0.38117241859436035	that &apos;s cool . &quot;
+P-2680	-0.3982 -0.0171 -1.3386 -0.4686 -0.0458 -0.0187
+S-2835	er hatte die erfahrung <unk> .
+T-2835	he had had the experience .
+H-2835	-0.6130468249320984	he had a experience of experience .
+D-2835	-0.6130468249320984	he had a experience of experience .
+P-2835	-0.0269 -0.1149 -2.6400 -0.5505 -1.3059 -0.1526 -0.0461 -0.0675
+S-2849	es gibt eine alte studie .
+T-2849	this is an old study .
+H-2849	-0.5273765325546265	there &apos;s a few examples .
+D-2849	-0.5273765325546265	there &apos;s a few examples .
+P-2849	-0.0332 -0.5954 -0.0738 -1.2172 -1.4838 -0.2251 -0.0631
+S-2964	d@@ k : 6@@ 0.000 .
+T-2964	d@@ k : 6@@ 0,000 .
+H-2964	-0.29846662282943726	d@@ r : no .
+D-2964	-0.29846662282943726	d@@ r : no .
+P-2964	-0.0042 -0.0951 -0.0174 -1.5359 -0.1032 -0.0349
+S-3360	und das ist ziemlich erstaunlich .
+T-3360	and it &apos;s pretty amazing .
+H-3360	-0.6298735737800598	and this is very amazing .
+D-3360	-0.6298735737800598	and this is very amazing .
+P-3360	-0.1154 -0.6735 -0.0028 -0.7997 -2.1797 -0.5640 -0.0739
+S-3776	<unk> sitzen nicht herum .
+T-3776	<<unk>> ers don &apos;t sit around .
+H-3776	-0.6880214214324951	it doesn &apos;t around it .
+D-3776	-0.6880214214324951	it doesn &apos;t around it .
+P-3776	-1.3512 -1.6340 -0.0075 -1.3929 -0.3475 -0.0111 -0.0720
+S-4611	wir brauchen energie@@ wunder .
+T-4611	and so , we need energy mira@@ cles .
+H-4611	-0.8080458641052246	we need to understand it .
+D-4611	-0.8080458641052246	we need to understand it .
+P-4611	-0.1634 -0.0167 -0.4045 -3.1074 -1.7209 -0.1602 -0.0832
+S-3043	wir brauchen energie@@ wunder .
+T-3043	and so , we need energy mira@@ cles .
+H-3043	-0.8080458641052246	we need to understand it .
+D-3043	-0.8080458641052246	we need to understand it .
+P-3043	-0.1634 -0.0167 -0.4045 -3.1074 -1.7209 -0.1602 -0.0832
+S-3731	also schaffen sie das .
+T-3731	right ? so you can do it .
+H-3731	-0.6604147553443909	and so , you need that .
+D-3731	-0.6604147553443909	and so , you need that .
+P-3731	-0.2486 -0.2137 -1.3902 -0.6471 -2.0845 -0.6316 -0.0106 -0.0571
+S-2163	also schaffen sie das .
+T-2163	right ? so you can do it .
+H-2163	-0.6604147553443909	and so , you need that .
+D-2163	-0.6604147553443909	and so , you need that .
+P-2163	-0.2486 -0.2137 -1.3902 -0.6471 -2.0845 -0.6316 -0.0106 -0.0571
+S-1051	das ist fel@@ <unk> .
+T-1051	and this is fel@@ ix , actually .
+H-1051	-1.1913291215896606	that &apos;s what you want to clean .
+D-1051	-1.1913291215896606	that &apos;s what you want to clean .
+P-1051	-0.3408 -0.0051 -0.9262 -5.1783 -0.4434 -0.0187 -2.3425 -1.4160 -0.0509
+S-163	das ist fel@@ <unk> .
+T-163	and this is fel@@ ix , actually .
+H-163	-1.1913291215896606	that &apos;s what you want to clean .
+D-163	-1.1913291215896606	that &apos;s what you want to clean .
+P-163	-0.3408 -0.0051 -0.9262 -5.1783 -0.4434 -0.0187 -2.3425 -1.4160 -0.0509
+S-4098	sie schle@@ mmen . &quot;
+T-4098	they &apos;re fe@@ ast@@ ing . &quot;
+H-4098	-0.9959309697151184	you can burn it . &quot;
+D-4098	-0.9959309697151184	you can burn it . &quot;
+P-4098	-1.1753 -1.4422 -3.1867 -0.8175 -0.1286 -0.1908 -0.0305
+S-4302	dadurch wurde die dynam@@ ik wirklich verändert .
+T-4302	and it really changed the dynamic .
+H-4302	-1.153161883354187	the first thing was really being born .
+D-4302	-1.153161883354187	the first thing was really being born .
+P-4302	-0.7444 -2.0750 -0.8758 -0.8422 -0.0819 -4.1146 -1.5690 -0.0252 -0.0505
+S-1932	sehr furcht@@ ein@@ fl@@ ö@@ ß@@ end .
+T-1932	very scar@@ y .
+H-1932	-1.4979705810546875	very , you &apos;ll see scen@@ es .
+D-1932	-1.4979705810546875	very , you &apos;ll see scen@@ es .
+P-1932	-0.0657 -4.8264 -2.0243 -0.3909 -3.8360 -2.0021 -0.2110 -0.0558 -0.0695
+S-2126	warum ? dieses bild beschreibt ziemlich genau ,
+T-2126	here &apos;s why .
+H-2126	-0.9723361730575562	so why ?
+D-2126	-0.9723361730575562	so why ?
+P-2126	-1.5079 -0.2315 -1.9690 -0.1810
+S-3500	sehr furcht@@ ein@@ fl@@ ö@@ ß@@ end .
+T-3500	very scar@@ y .
+H-3500	-1.4979705810546875	very , you &apos;ll see scen@@ es .
+D-3500	-1.4979705810546875	very , you &apos;ll see scen@@ es .
+P-3500	-0.0657 -4.8264 -2.0243 -0.3909 -3.8360 -2.0021 -0.2110 -0.0558 -0.0695
+S-3694	warum ? dieses bild beschreibt ziemlich genau ,
+T-3694	here &apos;s why .
+H-3694	-0.9723361730575562	so why ?
+D-3694	-0.9723361730575562	so why ?
+P-3694	-1.5079 -0.2315 -1.9690 -0.1810
+S-3070	als nächstes : nu@@ k@@ <unk> energie .
+T-3070	next would be <<unk>> .
+H-3070	-1.6959704160690308	it &apos;s called that energy .
+D-3070	-1.6959704160690308	it &apos;s called that energy .
+P-3070	-5.0434 -0.3433 -2.2132 -1.6233 -0.8532 -1.7438 -0.0516
+S-4638	als nächstes : nu@@ k@@ <unk> energie .
+T-4638	next would be <<unk>> .
+H-4638	-1.6959704160690308	it &apos;s called that energy .
+D-4638	-1.6959704160690308	it &apos;s called that energy .
+P-4638	-5.0434 -0.3433 -2.2132 -1.6233 -0.8532 -1.7438 -0.0516
+S-67	über@@ lassen sie das ruhi@@ g uns .
+T-67	leave that up to us .
+H-67	-1.216552495956421	and she &apos;s come to us .
+D-67	-1.216552495956421	and she &apos;s come to us .
+P-67	-0.2333 -2.2524 -2.1476 -1.7840 -0.8487 -2.0241 -0.3531 -0.0892
+S-955	über@@ lassen sie das ruhi@@ g uns .
+T-955	leave that up to us .
+H-955	-1.216552495956421	and she &apos;s come to us .
+D-955	-1.216552495956421	and she &apos;s come to us .
+P-955	-0.2333 -2.2524 -2.1476 -1.7840 -0.8487 -2.0241 -0.3531 -0.0892
+S-1821	ich versuchte nun etwas span@@ nen@@ des .
+T-1821	and i tried something interesting .
+H-1821	-0.6501174569129944	i wrote something about the most exciting thing .
+D-1821	-0.6501174569129944	i wrote something about the most exciting thing .
+P-1821	-0.1105 -1.2082 -0.1670 -0.0865 -0.2986 -3.2462 -0.6554 -0.6455 -0.0278 -0.0554
+S-1994	<unk> er ur@@ in . dun@@ kel .
+T-1994	dark ur@@ ine . dark .
+H-1994	-1.3240128755569458	it &apos;s re@@ cted in my way .
+D-1994	-1.3240128755569458	it &apos;s re@@ cted in my way .
+P-1994	-0.7230 -2.1472 -1.2817 -4.0589 -0.1159 -1.2744 -2.2177 -0.0392 -0.0580
+S-2871	wo@@ durch zeichnet sich eine geschichte aus ?
+T-2871	what defin@@ es a story ?
+H-2871	-0.9099454879760742	what is it a story ?
+D-2871	-0.9099454879760742	what is it a story ?
+P-2871	-1.2955 -2.0998 -1.5636 -0.9869 -0.0888 -0.2800 -0.0551
+S-3389	ich versuchte nun etwas span@@ nen@@ des .
+T-3389	and i tried something interesting .
+H-3389	-0.6501174569129944	i wrote something about the most exciting thing .
+D-3389	-0.6501174569129944	i wrote something about the most exciting thing .
+P-3389	-0.1105 -1.2082 -0.1670 -0.0865 -0.2986 -3.2462 -0.6554 -0.6455 -0.0278 -0.0554
+S-3562	<unk> er ur@@ in . dun@@ kel .
+T-3562	dark ur@@ ine . dark .
+H-3562	-1.3240128755569458	it &apos;s re@@ cted in my way .
+D-3562	-1.3240128755569458	it &apos;s re@@ cted in my way .
+P-3562	-0.7230 -2.1472 -1.2817 -4.0589 -0.1159 -1.2744 -2.2177 -0.0392 -0.0580
+S-4439	wo@@ durch zeichnet sich eine geschichte aus ?
+T-4439	what defin@@ es a story ?
+H-4439	-0.9099454879760742	what is it a story ?
+D-4439	-0.9099454879760742	what is it a story ?
+P-4439	-1.2955 -2.0998 -1.5636 -0.9869 -0.0888 -0.2800 -0.0551
+S-843	die wahrheit ist mehr wie das hier .
+T-843	the truth is more like this .
+H-843	-0.41828352212905884	the truth is more than the more here .
+D-843	-0.41828352212905884	the truth is more than the more here .
+P-843	-0.0390 -0.2440 -0.0059 -0.0511 -1.2799 -0.3223 -1.8132 -0.3238 -0.0477 -0.0559
+S-827	wollen sie je@@ ans mit lö@@ chern ?
+T-827	do you want them dist@@ ressed ?
+H-827	-1.2175774574279785	they want to dep@@ end with them ?
+D-827	-1.2175774574279785	they want to dep@@ end with them ?
+P-827	-0.3196 -0.0889 -0.7401 -4.1852 -3.0404 -0.0064 -2.3551 -0.1754 -0.0471
+S-3897	also , sehen sie , was passiert .
+T-3897	so , here &apos;s what happens .
+H-3897	-0.523845374584198	so , you see what happened , what happened .
+D-3897	-0.523845374584198	so , you see what happened , what happened .
+P-3897	-0.3337 -0.2498 -0.1834 -0.8027 -0.0414 -1.0616 -0.2989 -2.1186 -0.4343 -0.1676 -0.0704
+S-3744	sie sind einfach besser als die realität .
+T-3744	it &apos;s just better than reality .
+H-3744	-0.30199381709098816	they &apos;re better than it .
+D-3744	-0.30199381709098816	they &apos;re better than it .
+P-3744	-0.7952 -0.8706 -0.0842 -0.1987 -0.0238 -0.0749 -0.0665
+S-3657	ich fing also einfach an zu spielen .
+T-3657	so , i just started playing .
+H-3657	-0.6135509014129639	so , i began to do it .
+D-3657	-0.6135509014129639	so , i began to do it .
+P-3657	-0.1261 -1.8621 -0.0050 -0.4792 -0.0326 -2.0343 -0.7238 -0.1952 -0.0636
+S-2734	dadurch wurde die dynam@@ ik wirklich verändert .
+T-2734	and it really changed the dynamic .
+H-2734	-1.153161883354187	the first thing was really being born .
+D-2734	-1.153161883354187	the first thing was really being born .
+P-2734	-0.7444 -2.0750 -0.8758 -0.8422 -0.0819 -4.1146 -1.5690 -0.0252 -0.0505
+S-2329	also , sehen sie , was passiert .
+T-2329	so , here &apos;s what happens .
+H-2329	-0.523845374584198	so , you see what happened , what happened .
+D-2329	-0.523845374584198	so , you see what happened , what happened .
+P-2329	-0.3337 -0.2498 -0.1834 -0.8027 -0.0414 -1.0616 -0.2989 -2.1186 -0.4343 -0.1676 -0.0704
+S-2176	sie sind einfach besser als die realität .
+T-2176	it &apos;s just better than reality .
+H-2176	-0.30199381709098816	they &apos;re better than it .
+D-2176	-0.30199381709098816	they &apos;re better than it .
+P-2176	-0.7952 -0.8706 -0.0842 -0.1987 -0.0238 -0.0749 -0.0665
+S-2089	ich fing also einfach an zu spielen .
+T-2089	so , i just started playing .
+H-2089	-0.6135509014129639	so , i began to do it .
+D-2089	-0.6135509014129639	so , i began to do it .
+P-2089	-0.1261 -1.8621 -0.0050 -0.4792 -0.0326 -2.0343 -0.7238 -0.1952 -0.0636
+S-1759	das ist eine <unk> versch@@ wen@@ dung .
+T-1759	it &apos;s a waste of money .
+H-1759	-1.2969170808792114	that &apos;s a lot of love .
+D-1759	-1.2969170808792114	that &apos;s a lot of love .
+P-1759	-1.1921 -0.0051 -1.7175 -3.0052 -0.0601 -4.3047 -0.0473 -0.0434
+S-1731	die wahrheit ist mehr wie das hier .
+T-1731	the truth is more like this .
+H-1731	-0.41828352212905884	the truth is more than the more here .
+D-1731	-0.41828352212905884	the truth is more than the more here .
+P-1731	-0.0390 -0.2440 -0.0059 -0.0511 -1.2799 -0.3223 -1.8132 -0.3238 -0.0477 -0.0559
+S-1715	wollen sie je@@ ans mit lö@@ chern ?
+T-1715	do you want them dist@@ ressed ?
+H-1715	-1.2175774574279785	they want to dep@@ end with them ?
+D-1715	-1.2175774574279785	they want to dep@@ end with them ?
+P-1715	-0.3196 -0.0889 -0.7401 -4.1852 -3.0404 -0.0064 -2.3551 -0.1754 -0.0471
+S-871	das ist eine <unk> versch@@ wen@@ dung .
+T-871	it &apos;s a waste of money .
+H-871	-1.2969170808792114	that &apos;s a lot of love .
+D-871	-1.2969170808792114	that &apos;s a lot of love .
+P-871	-1.1921 -0.0051 -1.7175 -3.0052 -0.0601 -4.3047 -0.0473 -0.0434
+S-4233	darum habe ich den film gemacht .
+T-4233	and that &apos;s why i made the movie .
+H-4233	-0.8954839110374451	that &apos;s what i did .
+D-4233	-0.8954839110374451	that &apos;s what i did .
+P-4233	-1.2200 -0.3377 -0.7575 -0.0091 -3.6600 -0.2221 -0.0619
+S-4084	er zeigte auf die al@@ gen .
+T-4084	he poin@@ ted at the al@@ ga@@ e .
+H-4084	-1.023064374923706	but he gradu@@ ated at them .
+D-4084	-1.023064374923706	but he gradu@@ ated at them .
+P-4084	-1.4874 -0.0365 -4.7487 -0.6815 -0.1984 -0.8567 -0.1057 -0.0695
+S-3514	denn hat hier jemand mas@@ ern ?
+T-3514	because , did anyone have meas@@ les here ?
+H-3514	-1.0004796981811523	because you &apos;ve never been here ?
+D-3514	-1.0004796981811523	because you &apos;ve never been here ?
+P-3514	-0.2413 -2.8675 -0.0298 -2.5434 -1.4321 -0.0529 -0.7619 -0.0750
+S-3367	und ihn dann zu re@@ alisieren .
+T-3367	and then they ex@@ ec@@ ute on it .
+H-3367	-0.7960923910140991	and then it came to him .
+D-3367	-0.7960923910140991	and then it came to him .
+P-3367	-0.2279 -0.0095 -1.6121 -2.7071 -0.5896 -1.0561 -0.0948 -0.0717
+S-3204	darunter sollten anderen dinge nicht leiden .
+T-3204	it shouldn &apos;t take away from other things .
+H-3204	-0.7955279350280762	no , not other things .
+D-3204	-0.7955279350280762	no , not other things .
+P-3204	-2.6433 -1.5477 -0.2165 -0.3093 -0.0735 -0.7423 -0.0360
+S-3151	chris anderson : danke . danke !
+T-3151	chris anderson : thank you . thank you .
+H-3151	-0.15741528570652008	chris anderson : thank you .
+D-3151	-0.15741528570652008	chris anderson : thank you .
+P-3151	-0.2250 -0.6787 -0.0796 -0.0038 -0.0036 -0.0528 -0.0585
+S-3138	dieser hat die größte aus@@ <unk> .
+T-3138	this is the one with the <<unk>> impact .
+H-3138	-1.6046416759490967	that &apos;s the great challenge .
+D-3138	-1.6046416759490967	that &apos;s the great challenge .
+P-3138	-1.9513 -0.0363 -0.9787 -2.3440 -4.7206 -1.1485 -0.0530
+S-2743	welche lek@@ tionen haben wir gelernt ?
+T-2743	you know , what are the lessons learned ?
+H-2743	-1.0539031028747559	so , what is we have to say ?
+D-2743	-1.0539031028747559	so , what is we have to say ?
+P-2743	-2.2430 -1.0643 -0.5468 -0.5197 -0.0459 -0.8242 -1.5368 -2.2487 -1.4576 -0.0519
+S-2665	darum habe ich den film gemacht .
+T-2665	and that &apos;s why i made the movie .
+H-2665	-0.8954839110374451	that &apos;s what i did .
+D-2665	-0.8954839110374451	that &apos;s what i did .
+P-2665	-1.2200 -0.3377 -0.7575 -0.0091 -3.6600 -0.2221 -0.0619
+S-2516	er zeigte auf die al@@ gen .
+T-2516	he poin@@ ted at the al@@ ga@@ e .
+H-2516	-1.023064374923706	but he gradu@@ ated at them .
+D-2516	-1.023064374923706	but he gradu@@ ated at them .
+P-2516	-1.4874 -0.0365 -4.7487 -0.6815 -0.1984 -0.8567 -0.1057 -0.0695
+S-1946	denn hat hier jemand mas@@ ern ?
+T-1946	because , did anyone have meas@@ les here ?
+H-1946	-1.0004796981811523	because you &apos;ve never been here ?
+D-1946	-1.0004796981811523	because you &apos;ve never been here ?
+P-1946	-0.2413 -2.8675 -0.0298 -2.5434 -1.4321 -0.0529 -0.7619 -0.0750
+S-1799	und ihn dann zu re@@ alisieren .
+T-1799	and then they ex@@ ec@@ ute on it .
+H-1799	-0.7960923910140991	and then it came to him .
+D-1799	-0.7960923910140991	and then it came to him .
+P-1799	-0.2279 -0.0095 -1.6121 -2.7071 -0.5896 -1.0561 -0.0948 -0.0717
+S-1772	jeder braucht ein <unk> fisch@@ glas .
+T-1772	everybody needs a fis@@ h@@ bo@@ w@@ l .
+H-1772	-1.0330570936203003	every glass from a glass glass .
+D-1772	-1.0330570936203003	every glass from a glass glass .
+P-1772	-0.2413 -2.3868 -0.4951 -0.3459 -0.5479 -2.3014 -1.8803 -0.0658
+S-1669	die antwort ist &quot; ja &quot; .
+T-1669	and the answer is , &quot; yes . &quot;
+H-1669	-0.13587647676467896	the answer is , &quot; yes . &quot;
+D-1669	-0.13587647676467896	the answer is , &quot; yes . &quot;
+P-1669	-0.3258 -0.1776 -0.0028 -0.3694 -0.0193 -0.0280 -0.0281 -0.2607 -0.0112
+S-1130	also ist die frage : wie ?
+T-1130	and so , the question becomes , how ?
+H-1130	-0.4188559949398041	so the question is , how does question ?
+D-1130	-0.4188559949398041	so the question is , how does question ?
+P-1130	-0.0224 -0.9393 -0.0035 -0.0042 -0.3148 -0.1458 -0.5831 -2.1233 -0.0003 -0.0520
+S-884	jeder braucht ein <unk> fisch@@ glas .
+T-884	everybody needs a fis@@ h@@ bo@@ w@@ l .
+H-884	-1.0330570936203003	every glass from a glass glass .
+D-884	-1.0330570936203003	every glass from a glass glass .
+P-884	-0.2413 -2.3868 -0.4951 -0.3459 -0.5479 -2.3014 -1.8803 -0.0658
+S-242	also ist die frage : wie ?
+T-242	and so , the question becomes , how ?
+H-242	-0.4188559949398041	so the question is , how does question ?
+D-242	-0.4188559949398041	so the question is , how does question ?
+P-242	-0.0224 -0.9393 -0.0035 -0.0042 -0.3148 -0.1458 -0.5831 -2.1233 -0.0003 -0.0520
+S-781	die antwort ist &quot; ja &quot; .
+T-781	and the answer is , &quot; yes . &quot;
+H-781	-0.13587647676467896	the answer is , &quot; yes . &quot;
+D-781	-0.13587647676467896	the answer is , &quot; yes . &quot;
+P-781	-0.3258 -0.1776 -0.0028 -0.3694 -0.0193 -0.0280 -0.0281 -0.2607 -0.0112
+S-3940	und die form spielt eine rolle .
+T-3940	and the form has something to do with it .
+H-3940	-0.5076117515563965	and the other form of a foundation .
+D-3940	-0.5076117515563965	and the other form of a foundation .
+P-3940	-0.0205 -0.2851 -0.3930 -0.9889 -0.0292 -0.6744 -2.0427 -0.0821 -0.0526
+S-4886	ich wollte damals unbedingt normal <unk> .
+T-4886	i as@@ pi@@ red to that kind of <<unk>> cy back then .
+H-4886	-0.578819990158081	i wanted to look at this , but i wanted .
+D-4886	-0.578819990158081	i wanted to look at this , but i wanted .
+P-4886	-0.0229 -0.0391 -0.0163 -2.5105 -0.5140 -0.5270 -0.4313 -0.7359 -0.1633 -1.7014 -0.2071 -0.0771
+S-4191	die kreativität musste halt irgendwie raus .
+T-4191	that was -- the creativity had to find its out@@ let somehow .
+H-4191	-1.2638523578643799	the sort of it would be sort of it .
+D-4191	-1.2638523578643799	the sort of it would be sort of it .
+P-4191	-0.3581 -1.5275 -0.0063 -4.5589 -2.2876 -0.1571 -1.0653 -0.0146 -3.7855 -0.0784 -0.0630
+S-3704	also haben wir einige <unk> hier .
+T-3704	ok , good , so we have some <<unk>> ers among us .
+H-3704	-0.6205984950065613	so we &apos;ve got some here here here .
+D-3704	-0.6205984950065613	so we &apos;ve got some here here here .
+P-3704	-0.0336 -0.1334 -1.0195 -1.7215 -0.5324 -1.0053 -0.3417 -0.9046 -0.4378 -0.0761
+S-3318	ich wollte damals unbedingt normal <unk> .
+T-3318	i as@@ pi@@ red to that kind of <<unk>> cy back then .
+H-3318	-0.578819990158081	i wanted to look at this , but i wanted .
+D-3318	-0.578819990158081	i wanted to look at this , but i wanted .
+P-3318	-0.0229 -0.0391 -0.0163 -2.5105 -0.5140 -0.5270 -0.4313 -0.7359 -0.1633 -1.7014 -0.2071 -0.0771
+S-2623	die kreativität musste halt irgendwie raus .
+T-2623	that was -- the creativity had to find its out@@ let somehow .
+H-2623	-1.2638523578643799	the sort of it would be sort of it .
+D-2623	-1.2638523578643799	the sort of it would be sort of it .
+P-2623	-0.3581 -1.5275 -0.0063 -4.5589 -2.2876 -0.1571 -1.0653 -0.0146 -3.7855 -0.0784 -0.0630
+S-2136	also haben wir einige <unk> hier .
+T-2136	ok , good , so we have some <<unk>> ers among us .
+H-2136	-0.6205984950065613	so we &apos;ve got some here here here .
+D-2136	-0.6205984950065613	so we &apos;ve got some here here here .
+P-2136	-0.0336 -0.1334 -1.0195 -1.7215 -0.5324 -1.0053 -0.3417 -0.9046 -0.4378 -0.0761
+S-1648	heutzutage ist alles einfach zu haben .
+T-1648	no@@ wa@@ days , everything is very much up for grab@@ s .
+H-1648	-0.7205133438110352	we &apos;ve got anything about it .
+D-1648	-0.7205133438110352	we &apos;ve got anything about it .
+P-1648	-2.6291 -0.4286 -0.3735 -1.7450 -0.4807 -0.0238 -0.0131 -0.0705
+S-760	heutzutage ist alles einfach zu haben .
+T-760	no@@ wa@@ days , everything is very much up for grab@@ s .
+H-760	-0.7205133438110352	we &apos;ve got anything about it .
+D-760	-0.7205133438110352	we &apos;ve got anything about it .
+P-760	-2.6291 -0.4286 -0.3735 -1.7450 -0.4807 -0.0238 -0.0131 -0.0705
+S-4311	welche lek@@ tionen haben wir gelernt ?
+T-4311	you know , what are the lessons learned ?
+H-4311	-1.0539031028747559	so , what is we have to say ?
+D-4311	-1.0539031028747559	so , what is we have to say ?
+P-4311	-2.2430 -1.0643 -0.5468 -0.5197 -0.0459 -0.8242 -1.5368 -2.2487 -1.4576 -0.0519
+S-2372	und die form spielt eine rolle .
+T-2372	and the form has something to do with it .
+H-2372	-0.5076117515563965	and the other form of a foundation .
+D-2372	-0.5076117515563965	and the other form of a foundation .
+P-2372	-0.0205 -0.2851 -0.3930 -0.9889 -0.0292 -0.6744 -2.0427 -0.0821 -0.0526
+S-1611	so funktioniert also der super@@ markt .
+T-1611	so this is what the super@@ market is like .
+H-1611	-0.9578348994255066	so , the key thing .
+D-1611	-0.9578348994255066	so , the key thing .
+P-1611	-0.0074 -0.8569 -0.1192 -2.9746 -1.6807 -1.0073 -0.0588
+S-1092	okay , das macht wirklich mut .
+T-1092	so that &apos;s reas@@ sur@@ ing , you know .
+H-1092	-0.5784389972686768	ok , right .
+D-1092	-0.5784389972686768	ok , right .
+P-1092	-0.0168 -0.0404 -1.6452 -0.9947 -0.1951
+S-723	so funktioniert also der super@@ markt .
+T-723	so this is what the super@@ market is like .
+H-723	-0.9578348994255066	so , the key thing .
+D-723	-0.9578348994255066	so , the key thing .
+P-723	-0.0074 -0.8569 -0.1192 -2.9746 -1.6807 -1.0073 -0.0588
+S-204	okay , das macht wirklich mut .
+T-204	so that &apos;s reas@@ sur@@ ing , you know .
+H-204	-0.5784389972686768	ok , right .
+D-204	-0.5784389972686768	ok , right .
+P-204	-0.0168 -0.0404 -1.6452 -0.9947 -0.1951
+S-4772	darunter sollten anderen dinge nicht leiden .
+T-4772	it shouldn &apos;t take away from other things .
+H-4772	-0.7955279350280762	no , not other things .
+D-4772	-0.7955279350280762	no , not other things .
+P-4772	-2.6433 -1.5477 -0.2165 -0.3093 -0.0735 -0.7423 -0.0360
+S-4719	chris anderson : danke . danke !
+T-4719	chris anderson : thank you . thank you .
+H-4719	-0.15741528570652008	chris anderson : thank you .
+D-4719	-0.15741528570652008	chris anderson : thank you .
+P-4719	-0.2250 -0.6787 -0.0796 -0.0038 -0.0036 -0.0528 -0.0585
+S-4706	dieser hat die größte aus@@ <unk> .
+T-4706	this is the one with the <<unk>> impact .
+H-4706	-1.6046416759490967	that &apos;s the great challenge .
+D-4706	-1.6046416759490967	that &apos;s the great challenge .
+P-4706	-1.9513 -0.0363 -0.9787 -2.3440 -4.7206 -1.1485 -0.0530
+S-1781	es war ein ries@@ iger erfolg .
+T-1781	and it was a huge success .
+H-1781	-0.9719111919403076	it was a blog@@ ging to believe .
+D-1781	-0.9719111919403076	it was a blog@@ ging to believe .
+P-1781	-0.0044 -0.0283 -0.0146 -4.5972 -0.8436 -0.5358 -2.2166 -0.4526 -0.0540
+S-3992	&quot; natürlich &quot; , sagte ich .
+T-3992	&quot; absolutely , &quot; i said .
+H-3992	-0.4030361473560333	&quot; course , i said , &quot; i said . &quot;
+D-3992	-0.4030361473560333	&quot; course , i said , &quot; i said . &quot;
+P-3992	-0.2051 -0.6264 -0.0431 -2.5448 -0.0372 -0.0665 -0.0020 -0.9949 -0.1457 -0.1112 -0.0251 -0.0344
+S-3838	also , das können wir auch .
+T-3838	okay , we can do that .
+H-3838	-0.5312628149986267	so , we can do that .
+D-3838	-0.5312628149986267	so , we can do that .
+P-3838	-0.1141 -0.2577 -3.0114 -0.0063 -0.1270 -0.5933 -0.0506 -0.0898
+S-3576	so fühlen sie sich gut . &quot;
+T-3576	it makes them feel good . &quot;
+H-3576	-0.8166565299034119	they &apos;re going to be good . &quot;
+D-3576	-0.8166565299034119	they &apos;re going to be good . &quot;
+P-3576	-1.1860 -0.9429 -2.7855 -0.0997 -1.4832 -0.1567 -0.6484 -0.0183 -0.0291
+S-3451	das ist also die gute <unk> .
+T-3451	so that &apos;s the good news .
+H-3451	-0.37372738122940063	so that &apos;s the good part .
+D-3451	-0.37372738122940063	so that &apos;s the good part .
+P-3451	-0.0414 -0.7616 -0.0161 -1.0762 -0.0144 -0.4883 -0.5341 -0.0576
+S-3349	es war ein ries@@ iger erfolg .
+T-3349	and it was a huge success .
+H-3349	-0.9719111919403076	it was a blog@@ ging to believe .
+D-3349	-0.9719111919403076	it was a blog@@ ging to believe .
+P-3349	-0.0044 -0.0283 -0.0146 -4.5972 -0.8436 -0.5358 -2.2166 -0.4526 -0.0540
+S-2941	es ist ein komplett anderer begriff .
+T-2941	it is a completely different notion .
+H-2941	-1.0752073526382446	it &apos;s a new version .
+D-2941	-1.0752073526382446	it &apos;s a new version .
+P-2941	-0.0530 -0.0268 -0.0858 -3.5653 -2.6631 -1.0769 -0.0554
+S-2889	sie haben die geschichte nicht geändert .
+T-2889	you have not changed the story .
+H-2889	-0.8024216294288635	they &apos;ve weren &apos;t told the story .
+D-2889	-0.8024216294288635	they &apos;ve weren &apos;t told the story .
+P-2889	-0.1069 -0.9404 -2.6276 -0.0375 -3.0063 -0.3228 -0.0208 -0.1057 -0.0538
+S-2815	jeder spricht heutzutage über das glück .
+T-2815	everybody talks about happiness these days .
+H-2815	-1.3950886726379395	every one of these temperature about it .
+D-2815	-1.3950886726379395	every one of these temperature about it .
+P-2815	-0.5474 -1.6738 -0.5307 -1.7728 -4.6687 -0.8039 -2.4916 -0.0114 -0.0554
+S-2649	sie sahen also etwas mag@@ isches .
+T-2649	they were seeing something <<unk>> cal .
+H-2649	-0.7864580154418945	so , you &apos;ve got to look at this .
+D-2649	-0.7864580154418945	so , you &apos;ve got to look at this .
+P-2649	-1.1634 -0.7800 -0.3348 -0.7567 -1.2037 -0.8033 -1.3637 -0.2862 -1.8632 -0.0368 -0.0592
+S-2533	&quot; ja &quot; , sagte er .
+T-2533	&quot; yes , &quot; he said .
+H-2533	-0.47028329968452454	&quot; yes , he said . &quot;
+D-2533	-0.47028329968452454	&quot; yes , he said . &quot;
+P-2533	-0.9612 -0.5835 -0.2056 -0.0227 -0.0532 -1.8647 -0.0522 -0.0191
+S-2445	2.@@ 5 zu eins , großartig .
+T-2445	2.@@ 5 to one , great .
+H-2445	-1.165512204170227	and that &apos;s one thing to be happening .
+D-2445	-1.165512204170227	and that &apos;s one thing to be happening .
+P-2445	-0.0748 -4.4258 -0.7268 -1.3310 -0.9556 -0.0014 -1.2040 -2.6471 -0.2297 -0.0589
+S-2424	&quot; natürlich &quot; , sagte ich .
+T-2424	&quot; absolutely , &quot; i said .
+H-2424	-0.4030361473560333	&quot; course , i said , &quot; i said . &quot;
+D-2424	-0.4030361473560333	&quot; course , i said , &quot; i said . &quot;
+P-2424	-0.2051 -0.6264 -0.0431 -2.5448 -0.0372 -0.0665 -0.0020 -0.9949 -0.1457 -0.1112 -0.0251 -0.0344
+S-2270	also , das können wir auch .
+T-2270	okay , we can do that .
+H-2270	-0.5312628149986267	so , we can do that .
+D-2270	-0.5312628149986267	so , we can do that .
+P-2270	-0.1141 -0.2577 -3.0114 -0.0063 -0.1270 -0.5933 -0.0506 -0.0898
+S-2008	so fühlen sie sich gut . &quot;
+T-2008	it makes them feel good . &quot;
+H-2008	-0.8166565299034119	they &apos;re going to be good . &quot;
+D-2008	-0.8166565299034119	they &apos;re going to be good . &quot;
+P-2008	-1.1860 -0.9429 -2.7855 -0.0997 -1.4832 -0.1567 -0.6484 -0.0183 -0.0291
+S-1883	das ist also die gute <unk> .
+T-1883	so that &apos;s the good news .
+H-1883	-0.37372738122940063	so that &apos;s the good part .
+D-1883	-0.37372738122940063	so that &apos;s the good part .
+P-1883	-0.0414 -0.7616 -0.0161 -1.0762 -0.0144 -0.4883 -0.5341 -0.0576
+S-4013	2.@@ 5 zu eins , großartig .
+T-4013	2.@@ 5 to one , great .
+H-4013	-1.165512204170227	and that &apos;s one thing to be happening .
+D-4013	-1.165512204170227	and that &apos;s one thing to be happening .
+P-4013	-0.0748 -4.4258 -0.7268 -1.3310 -0.9556 -0.0014 -1.2040 -2.6471 -0.2297 -0.0589
+S-1749	also lassen sie mich sie erinnern .
+T-1749	so let me re@@ mind you .
+H-1749	-0.8637122511863708	and so she came to me .
+D-1749	-0.8637122511863708	and so she came to me .
+P-1749	-0.4969 -1.0195 -0.2263 -3.6305 -0.5280 -0.0440 -0.8977 -0.0668
+S-1626	die antwort ist &quot; nein . &quot;
+T-1626	the answer is &quot; no . &quot;
+H-1626	-0.08338756859302521	the answer is , &quot; no . &quot;
+D-1626	-0.08338756859302521	the answer is , &quot; no . &quot;
+P-1626	-0.1244 -0.2347 -0.0049 -0.1435 -0.0273 -0.0628 -0.0099 -0.1133 -0.0298
+S-1228	das ist gott , wissen sie ?
+T-1228	that &apos;s god , you know .
+H-1228	-0.4943080246448517	that &apos;s what you know , you know ?
+D-1228	-0.4943080246448517	that &apos;s what you know , you know ?
+P-1228	-2.0945 -0.1655 -0.2264 -0.0136 -0.0257 -0.1152 -0.8498 -0.0136 -1.3979 -0.0409
+S-1103	ist das vern@@ ün@@ f@@ tig ?
+T-1103	you know , is it <<unk>> ?
+H-1103	-1.3668532371520996	is this one ?
+D-1103	-1.3668532371520996	is this one ?
+P-1103	-1.3701 -1.5249 -1.9031 -1.9897 -0.0464
+S-861	also lassen sie mich sie erinnern .
+T-861	so let me re@@ mind you .
+H-861	-0.8637122511863708	and so she came to me .
+D-861	-0.8637122511863708	and so she came to me .
+P-861	-0.4969 -1.0195 -0.2263 -3.6305 -0.5280 -0.0440 -0.8977 -0.0668
+S-738	die antwort ist &quot; nein . &quot;
+T-738	the answer is &quot; no . &quot;
+H-738	-0.08338756859302521	the answer is , &quot; no . &quot;
+D-738	-0.08338756859302521	the answer is , &quot; no . &quot;
+P-738	-0.1244 -0.2347 -0.0049 -0.1435 -0.0273 -0.0628 -0.0099 -0.1133 -0.0298
+S-340	das ist gott , wissen sie ?
+T-340	that &apos;s god , you know .
+H-340	-0.4943080246448517	that &apos;s what you know , you know ?
+D-340	-0.4943080246448517	that &apos;s what you know , you know ?
+P-340	-2.0945 -0.1655 -0.2264 -0.0136 -0.0257 -0.1152 -0.8498 -0.0136 -1.3979 -0.0409
+S-215	ist das vern@@ ün@@ f@@ tig ?
+T-215	you know , is it <<unk>> ?
+H-215	-1.3668532371520996	is this one ?
+D-215	-1.3668532371520996	is this one ?
+P-215	-1.3701 -1.5249 -1.9031 -1.9897 -0.0464
+S-4858	mal ehrlich - wer ist normal ?
+T-4858	now , who &apos;s normal ?
+H-4858	-1.2847940921783447	each one -- who &apos;s computers ?
+D-4858	-1.2847940921783447	each one -- who &apos;s computers ?
+P-4858	-2.5536 -1.3689 -0.0897 -0.8700 -0.4762 -4.8096 -0.0690 -0.0413
+S-4426	und hier ist eine überrasch@@ ung :
+T-4426	and here is a surprise .
+H-4426	-0.5946078300476074	and here &apos;s a surprise of surprise .
+D-4426	-0.5946078300476074	and here &apos;s a surprise of surprise .
+P-4426	-0.3462 -0.6038 -0.0234 -0.6503 -0.0826 -0.2382 -1.1918 -2.1596 -0.0554
+S-4162	sie wollen die welt ernä@@ hren ?
+T-4162	want to feed the world ?
+H-4162	-0.8616636991500854	they want to live off the world ?
+D-4162	-0.8616636991500854	they want to live off the world ?
+P-4162	-0.2184 -0.0108 -0.0728 -3.9154 -2.5060 -0.0099 -0.9304 -0.0383 -0.0529
+S-4005	ich wollte sie unterstü@@ tz@@ ten .
+T-4005	i wanted to support them .
+H-4005	-1.0051743984222412	i wanted to been on this .
+D-4005	-1.0051743984222412	i wanted to been on this .
+P-4005	-0.0414 -0.0150 -0.0291 -4.7688 -1.4281 -0.7683 -0.8752 -0.1155
+S-3997	es ist fast nichts mehr übrig .
+T-3997	there &apos;s almost nothing left .
+H-3997	-0.6736181378364563	it &apos;s almost more .
+D-3997	-0.6736181378364563	it &apos;s almost more .
+P-3997	-0.1182 -0.0040 -0.4019 -0.1401 -3.3251 -0.0524
+S-3984	ich habe nur zwei gelie@@ bt .
+T-3984	i &apos;ve loved only two .
+H-3984	-1.064699411392212	i &apos;ve only two ts .
+D-3984	-1.064699411392212	i &apos;ve only two ts .
+P-3984	-0.0393 -0.9571 -0.5896 -1.3132 -4.3691 -0.1356 -0.0491
+S-3788	und letztendlich , ep@@ ische bedeutung .
+T-3788	finally : ep@@ ic meaning .
+H-3788	-0.8422120213508606	and day , there &apos;s a lot of meaning .
+D-3788	-0.8422120213508606	and day , there &apos;s a lot of meaning .
+P-3788	-0.0774 -2.4084 -0.0386 -2.5234 -0.7138 -0.0317 -0.3181 -0.0070 -2.9385 -0.1383 -0.0692
+S-3006	deshalb ist es eine große herausforderung .
+T-3006	and so that &apos;s a big challenge .
+H-3006	-0.544625997543335	and that &apos;s an big challenge .
+D-3006	-0.544625997543335	and that &apos;s an big challenge .
+P-3006	-1.0627 -0.0481 -0.0079 -1.1060 -0.2679 -1.7823 -0.0126 -0.0695
+S-4685	wie sollte unser zeug@@ nis aussehen ?
+T-4685	what should our report card look like ?
+H-4685	-1.2218633890151978	how should does our work ?
+D-4685	-1.2218633890151978	how should does our work ?
+P-4685	-0.0509 -0.3042 -3.9486 -1.6226 -1.1468 -1.4353 -0.0446
+S-4636	das ist eine menge <unk> men .
+T-4636	this is a lot of volu@@ me .
+H-4636	-0.6669256091117859	that &apos;s a lot of them .
+D-4636	-0.6669256091117859	that &apos;s a lot of them .
+P-4636	-0.3106 -0.0031 -3.0624 -0.5564 -0.0723 -1.2222 -0.0567 -0.0517
+S-4574	deshalb ist es eine große herausforderung .
+T-4574	and so that &apos;s a big challenge .
+H-4574	-0.544625997543335	and that &apos;s an big challenge .
+D-4574	-0.544625997543335	and that &apos;s an big challenge .
+P-4574	-1.0627 -0.0481 -0.0079 -1.1060 -0.2679 -1.7823 -0.0126 -0.0695
+S-4500	sie haben so viel un@@ sicherheit .
+T-4500	you have that much un@@ <<unk>> ty .
+H-4500	-0.526116669178009	they &apos;ve got so much .
+D-4500	-0.526116669178009	they &apos;ve got so much .
+P-4500	-0.4541 -0.1001 -0.6826 -0.1627 -0.1362 -2.0770 -0.0701
+S-4127	ich ko@@ che fast nie damit .
+T-4127	i almost never co@@ ok with it .
+H-4127	-1.2030330896377563	i never never matter .
+D-4127	-1.2030330896377563	i never never matter .
+P-4127	-0.2153 -0.2304 -1.5070 -4.3990 -0.7994 -0.0672
+S-3794	sie erschaffen eine ep@@ ische geschichte .
+T-3794	they are building an ep@@ ic story .
+H-3794	-0.8371490836143494	and they &apos;ll keep a story .
+D-3794	-0.8371490836143494	and they &apos;ll keep a story .
+P-3794	-1.4678 -0.3555 -1.5016 -3.1378 -0.0195 -0.0837 -0.0655 -0.0658
+S-3718	wir erreichen in spiel@@ welten mehr .
+T-3718	we do <<unk>> more in game worlds .
+H-3718	-1.4336516857147217	we &apos;re in more male ages .
+D-3718	-1.4336516857147217	we &apos;re in more male ages .
+P-3718	-0.0430 -1.3332 -2.2673 -0.8326 -3.4059 -3.4575 -0.0676 -0.0621
+S-3558	die daten bele@@ gen das ständig .
+T-3558	the data says it all the time .
+H-3558	-1.093231201171875	the data is , it turns out .
+D-3558	-1.093231201171875	the data is , it turns out .
+P-3558	-0.1467 -1.4340 -2.1971 -1.7093 -0.5732 -3.4584 -0.1287 -0.1368 -0.0549
+S-3544	niemand hat das je zuvor gesagt .
+T-3544	no one &apos;s ever said that before .
+H-3544	-1.1240713596343994	and nobody ever , no one .
+D-3544	-1.1240713596343994	and nobody ever , no one .
+P-3544	-1.1551 -0.5596 -2.8579 -2.2958 -0.7437 -0.0446 -1.2783 -0.0576
+S-3533	paul ist also ein terror@@ ist .
+T-3533	so , paul &apos;s a <<unk>> ist .
+H-3533	-0.8158890604972839	so this is a true person .
+D-3533	-0.8158890604972839	so this is a true person .
+P-3533	-0.0529 -0.6753 -0.0032 -0.0144 -1.3239 -4.2314 -0.1745 -0.0516
+S-3532	und das sagt er tatsächlich so .
+T-3532	and he actually says it that way .
+H-3532	-0.6914666295051575	and he says that .
+D-3532	-0.6914666295051575	and he says that .
+P-3532	-0.0243 -0.6976 -2.5871 -0.7029 -0.0440 -0.0928
+S-3496	nehmen sie nichts als gegeben hin .
+T-3496	don &apos;t take anything for gran@@ ted .
+H-3496	-1.4208128452301025	they &apos;re not better than them .
+D-3496	-1.4208128452301025	they &apos;re not better than them .
+P-3496	-1.1664 -0.6294 -1.3207 -2.9410 -2.9947 -1.6278 -0.6090 -0.0773
+S-3478	ich meine , ich bin <unk> ,
+T-3478	i mean , i &apos;m a journalist .
+H-3478	-1.0182371139526367	i mean , i am there .
+D-3478	-1.0182371139526367	i mean , i am there .
+P-3478	-0.0220 -0.1316 -0.0071 -2.6804 -0.1546 -4.5613 -0.5358 -0.0532
+S-3117	wie sollte unser zeug@@ nis aussehen ?
+T-3117	what should our report card look like ?
+H-3117	-1.2218633890151978	how should does our work ?
+D-3117	-1.2218633890151978	how should does our work ?
+P-3117	-0.0509 -0.3042 -3.9486 -1.6226 -1.1468 -1.4353 -0.0446
+S-3068	das ist eine menge <unk> men .
+T-3068	this is a lot of volu@@ me .
+H-3068	-0.6669256091117859	that &apos;s a lot of them .
+D-3068	-0.6669256091117859	that &apos;s a lot of them .
+P-3068	-0.3106 -0.0031 -3.0624 -0.5564 -0.0723 -1.2222 -0.0567 -0.0517
+S-3474	die gleiche sache , nur größer .
+T-3474	same thing , only bigger .
+H-3474	-0.8389647603034973	the same thing that &apos;s just more organized .
+D-3474	-0.8389647603034973	the same thing that &apos;s just more organized .
+P-3474	-0.2046 -0.0126 -0.1432 -0.1604 -1.4476 -1.3742 -0.6283 -4.3269 -0.0251 -0.0666
+S-2932	sie haben so viel un@@ sicherheit .
+T-2932	you have that much un@@ <<unk>> ty .
+H-2932	-0.526116669178009	they &apos;ve got so much .
+D-2932	-0.526116669178009	they &apos;ve got so much .
+P-2932	-0.4541 -0.1001 -0.6826 -0.1627 -0.1362 -2.0770 -0.0701
+S-2559	ich ko@@ che fast nie damit .
+T-2559	i almost never co@@ ok with it .
+H-2559	-1.2030330896377563	i never never matter .
+D-2559	-1.2030330896377563	i never never matter .
+P-2559	-0.2153 -0.2304 -1.5070 -4.3990 -0.7994 -0.0672
+S-2226	sie erschaffen eine ep@@ ische geschichte .
+T-2226	they are building an ep@@ ic story .
+H-2226	-0.8371490836143494	and they &apos;ll keep a story .
+D-2226	-0.8371490836143494	and they &apos;ll keep a story .
+P-2226	-1.4678 -0.3555 -1.5016 -3.1378 -0.0195 -0.0837 -0.0655 -0.0658
+S-2150	wir erreichen in spiel@@ welten mehr .
+T-2150	we do <<unk>> more in game worlds .
+H-2150	-1.4336516857147217	we &apos;re in more male ages .
+D-2150	-1.4336516857147217	we &apos;re in more male ages .
+P-2150	-0.0430 -1.3332 -2.2673 -0.8326 -3.4059 -3.4575 -0.0676 -0.0621
+S-1990	die daten bele@@ gen das ständig .
+T-1990	the data says it all the time .
+H-1990	-1.093231201171875	the data is , it turns out .
+D-1990	-1.093231201171875	the data is , it turns out .
+P-1990	-0.1467 -1.4340 -2.1971 -1.7093 -0.5732 -3.4584 -0.1287 -0.1368 -0.0549
+S-1976	niemand hat das je zuvor gesagt .
+T-1976	no one &apos;s ever said that before .
+H-1976	-1.1240713596343994	and nobody ever , no one .
+D-1976	-1.1240713596343994	and nobody ever , no one .
+P-1976	-1.1551 -0.5596 -2.8579 -2.2958 -0.7437 -0.0446 -1.2783 -0.0576
+S-1965	paul ist also ein terror@@ ist .
+T-1965	so , paul &apos;s a <<unk>> ist .
+H-1965	-0.8158890604972839	so this is a true person .
+D-1965	-0.8158890604972839	so this is a true person .
+P-1965	-0.0529 -0.6753 -0.0032 -0.0144 -1.3239 -4.2314 -0.1745 -0.0516
+S-1964	und das sagt er tatsächlich so .
+T-1964	and he actually says it that way .
+H-1964	-0.6914666295051575	and he says that .
+D-1964	-0.6914666295051575	and he says that .
+P-1964	-0.0243 -0.6976 -2.5871 -0.7029 -0.0440 -0.0928
+S-1928	nehmen sie nichts als gegeben hin .
+T-1928	don &apos;t take anything for gran@@ ted .
+H-1928	-1.4208128452301025	they &apos;re not better than them .
+D-1928	-1.4208128452301025	they &apos;re not better than them .
+P-1928	-1.1664 -0.6294 -1.3207 -2.9410 -2.9947 -1.6278 -0.6090 -0.0773
+S-1910	ich meine , ich bin <unk> ,
+T-1910	i mean , i &apos;m a journalist .
+H-1910	-1.0182371139526367	i mean , i am there .
+D-1910	-1.0182371139526367	i mean , i am there .
+P-1910	-0.0220 -0.1316 -0.0071 -2.6804 -0.1546 -4.5613 -0.5358 -0.0532
+S-4509	es ist ein komplett anderer begriff .
+T-4509	it is a completely different notion .
+H-4509	-1.0752073526382446	it &apos;s a new version .
+D-4509	-1.0752073526382446	it &apos;s a new version .
+P-4509	-0.0530 -0.0268 -0.0858 -3.5653 -2.6631 -1.0769 -0.0554
+S-4457	sie haben die geschichte nicht geändert .
+T-4457	you have not changed the story .
+H-4457	-0.8024216294288635	they &apos;ve weren &apos;t told the story .
+D-4457	-0.8024216294288635	they &apos;ve weren &apos;t told the story .
+P-4457	-0.1069 -0.9404 -2.6276 -0.0375 -3.0063 -0.3228 -0.0208 -0.1057 -0.0538
+S-4383	jeder spricht heutzutage über das glück .
+T-4383	everybody talks about happiness these days .
+H-4383	-1.3950886726379395	every one of these temperature about it .
+D-4383	-1.3950886726379395	every one of these temperature about it .
+P-4383	-0.5474 -1.6738 -0.5307 -1.7728 -4.6687 -0.8039 -2.4916 -0.0114 -0.0554
+S-4217	sie sahen also etwas mag@@ isches .
+T-4217	they were seeing something <<unk>> cal .
+H-4217	-0.7864580154418945	so , you &apos;ve got to look at this .
+D-4217	-0.7864580154418945	so , you &apos;ve got to look at this .
+P-4217	-1.1634 -0.7800 -0.3348 -0.7567 -1.2037 -0.8033 -1.3637 -0.2862 -1.8632 -0.0368 -0.0592
+S-4101	&quot; ja &quot; , sagte er .
+T-4101	&quot; yes , &quot; he said .
+H-4101	-0.47028329968452454	&quot; yes , he said . &quot;
+D-4101	-0.47028329968452454	&quot; yes , he said . &quot;
+P-4101	-0.9612 -0.5835 -0.2056 -0.0227 -0.0532 -1.8647 -0.0522 -0.0191
+S-4012	&quot; die beste in der bran@@ che . &quot;
+T-4012	&quot; best in the business . &quot;
+H-4012	-0.7786524891853333	&quot; all , the industry will be . &quot;
+D-4012	-0.7786524891853333	&quot; all , the industry will be . &quot;
+P-4012	-0.6916 -0.8601 -0.6806 -0.9524 -1.2044 -1.1754 -1.1999 -0.7246 -0.2744 -0.0232
+S-810	was könnte besser sein ? &quot; verdam@@ mt &quot;
+T-810	what could be better ?
+H-810	-0.5919010043144226	what could be it ? &quot;
+D-810	-0.5919010043144226	what could be it ? &quot;
+P-810	-1.3488 -0.0162 -0.1548 -1.7177 -0.6261 -0.0022 -0.2774
+S-1698	was könnte besser sein ? &quot; verdam@@ mt &quot;
+T-1698	what could be better ?
+H-1698	-0.5919010043144226	what could be it ? &quot;
+D-1698	-0.5919010043144226	what could be it ? &quot;
+P-1698	-1.3488 -0.0162 -0.1548 -1.7177 -0.6261 -0.0022 -0.2774
+S-596	sie durch@@ bo@@ hr@@ ten sich gegensei@@ tig .
+T-596	they spe@@ ared each other .
+H-596	-0.941892147064209	they &apos;ve got to work off this .
+D-596	-0.941892147064209	they &apos;ve got to work off this .
+P-596	-0.0039 -2.0112 -1.3771 -1.1504 -1.0360 -0.6325 -2.0549 -0.1191 -0.0919
+S-1484	sie durch@@ bo@@ hr@@ ten sich gegensei@@ tig .
+T-1484	they spe@@ ared each other .
+H-1484	-0.941892147064209	they &apos;ve got to work off this .
+D-1484	-0.941892147064209	they &apos;ve got to work off this .
+P-1484	-0.0039 -2.0112 -1.3771 -1.1504 -1.0360 -0.6325 -2.0549 -0.1191 -0.0919
+S-2286	das hier ist &quot; welt ohne öl . &quot;
+T-2286	this is world without oil .
+H-2286	-0.761058509349823	that &apos;s the world . &quot;
+D-2286	-0.761058509349823	that &apos;s the world . &quot;
+P-2286	-0.9664 -0.0379 -1.6544 -1.0752 -0.6188 -0.0837 -0.8911
+S-3854	das hier ist &quot; welt ohne öl . &quot;
+T-3854	this is world without oil .
+H-3854	-0.761058509349823	that &apos;s the world . &quot;
+D-3854	-0.761058509349823	that &apos;s the world . &quot;
+P-3854	-0.9664 -0.0379 -1.6544 -1.0752 -0.6188 -0.0837 -0.8911
+S-399	wir haben einzigarti@@ ge elemente hier ein@@ gebaut .
+T-399	we design unique elements into this .
+H-399	-1.266072154045105	and we &apos;ve got to be the beginning here .
+D-399	-1.266072154045105	and we &apos;ve got to be the beginning here .
+P-399	-1.2673 -0.0440 -0.3268 -2.0352 -2.3070 -0.9029 -2.9923 -3.1111 -0.6251 -0.2363 -0.0789
+S-1287	wir haben einzigarti@@ ge elemente hier ein@@ gebaut .
+T-1287	we design unique elements into this .
+H-1287	-1.266072154045105	and we &apos;ve got to be the beginning here .
+D-1287	-1.266072154045105	and we &apos;ve got to be the beginning here .
+P-1287	-1.2673 -0.0440 -0.3268 -2.0352 -2.3070 -0.9029 -2.9923 -3.1111 -0.6251 -0.2363 -0.0789
+S-2016	die haben sie . die haben sie immer .
+T-2016	there are . there always are .
+H-2016	-0.8821391463279724	they &apos;ve always been around the .
+D-2016	-0.8821391463279724	they &apos;ve always been around the .
+P-2016	-0.1840 -0.0141 -2.1529 -0.7224 -1.9538 -0.0584 -1.7450 -0.2264
+S-2113	ich hoffe , sie ver@@ zei@@ hen mir .
+T-2113	so , please for@@ give me .
+H-2113	-1.0096713304519653	i tend to work with me .
+D-2113	-1.0096713304519653	i tend to work with me .
+P-2113	-0.1648 -4.0169 -0.1383 -2.5409 -0.8821 -0.0704 -0.2126 -0.0513
+S-2444	&quot; die beste in der bran@@ che . &quot;
+T-2444	&quot; best in the business . &quot;
+H-2444	-0.7786524891853333	&quot; all , the industry will be . &quot;
+D-2444	-0.7786524891853333	&quot; all , the industry will be . &quot;
+P-2444	-0.6916 -0.8601 -0.6806 -0.9524 -1.2044 -1.1754 -1.1999 -0.7246 -0.2744 -0.0232
+S-2494	sie haben buchstäblich den he@@ bel um@@ gelegt .
+T-2494	they literally fli@@ pped the switch .
+H-2494	-1.0960334539413452	they &apos;ve got to use the fo@@ s .
+D-2494	-1.0960334539413452	they &apos;ve got to use the fo@@ s .
+P-2494	-0.0241 -1.0383 -0.8653 -1.1666 -2.6052 -0.0300 -4.9713 -0.1073 -0.0849 -0.0675
+S-2540	das hier ist ein ök@@ olog@@ isches netzwerk .
+T-2540	this is an ec@@ ological network .
+H-2540	-0.8693311810493469	this is a picture here to work .
+D-2540	-0.8693311810493469	this is a picture here to work .
+P-2540	-0.2084 -0.0291 -0.0240 -3.8537 -0.0428 -1.3263 -1.9535 -0.3387 -0.0474
+S-3069	das ist also eine har@@ te n@@ uss .
+T-3069	so that &apos;s a tough one .
+H-3069	-0.4819546043872833	so that &apos;s an amazing thing .
+D-3069	-0.4819546043872833	so that &apos;s an amazing thing .
+P-3069	-0.0398 -0.0681 -0.0178 -0.7439 -2.1581 -0.1778 -0.5900 -0.0601
+S-3260	wi@@ dri@@ gkeiten gehören einfach zu unserem leben .
+T-3260	it &apos;s part of our life .
+H-3260	-1.558824062347412	and something about life , to create computers .
+D-3260	-1.558824062347412	and something about life , to create computers .
+P-3260	-5.0706 -3.3841 -0.5136 -0.2458 -0.7408 -1.0299 -2.0725 -2.4383 -0.0244 -0.0681
+S-3584	die haben sie . die haben sie immer .
+T-3584	there are . there always are .
+H-3584	-0.8821391463279724	they &apos;ve always been around the .
+D-3584	-0.8821391463279724	they &apos;ve always been around the .
+P-3584	-0.1840 -0.0141 -2.1529 -0.7224 -1.9538 -0.0584 -1.7450 -0.2264
+S-3681	ich hoffe , sie ver@@ zei@@ hen mir .
+T-3681	so , please for@@ give me .
+H-3681	-1.0096713304519653	i tend to work with me .
+D-3681	-1.0096713304519653	i tend to work with me .
+P-3681	-0.1648 -4.0169 -0.1383 -2.5409 -0.8821 -0.0704 -0.2126 -0.0513
+S-3881	was , glauben sie , passiert als nächstes ?
+T-3881	what do you think happens next ?
+H-3881	-0.8182509541511536	what do you happen to happen next next ?
+D-3881	-0.8182509541511536	what do you happen to happen next next ?
+P-3881	-0.0080 -1.7215 -0.0442 -0.5039 -1.1991 -0.4616 -1.3911 -1.7566 -1.0406 -0.0559
+S-2313	was , glauben sie , passiert als nächstes ?
+T-2313	what do you think happens next ?
+H-2313	-0.8182509541511536	what do you happen to happen next next ?
+D-2313	-0.8182509541511536	what do you happen to happen next next ?
+P-2313	-0.0080 -1.7215 -0.0442 -0.5039 -1.1991 -0.4616 -1.3911 -1.7566 -1.0406 -0.0559
+S-4345	nun sehe ich gre@@ g le@@ mond .
+T-4345	and i see gre@@ g le@@ <<unk>> now .
+H-4345	-0.9505696296691895	well , i &apos;ve got gre@@ ed you .
+D-4345	-0.9505696296691895	well , i &apos;ve got gre@@ ed you .
+P-4345	-2.1621 -0.2295 -0.0203 -0.3370 -0.3622 -3.4710 -0.2071 -2.6447 -0.0299 -0.0417
+S-4599	wir haben etwas , das nicht steigt ,
+T-4599	we have something that &apos;s not going up .
+H-4599	-1.1842319965362549	we &apos;ve been something about this , right , right ?
+D-4599	-1.1842319965362549	we &apos;ve been something about this , right , right ?
+P-4599	-0.1038 -0.0954 -3.3382 -1.3394 -1.8724 -1.3448 -0.3175 -0.8515 -1.5675 -1.8031 -1.5274 -0.0497
+S-1916	und das brachte mich so durch@@ einander ...
+T-1916	and it just dist@@ ur@@ bed me so much .
+H-1916	-1.1998791694641113	and the put that comes off and ...
+D-1916	-1.1998791694641113	and the put that comes off and ...
+P-1916	-0.0309 -0.9677 -3.4070 -0.9606 -1.9228 -1.7688 -0.9642 -0.6931 -0.0838
+S-2020	das ist ide@@ ologie , nicht wissenschaft .
+T-2020	it &apos;s ide@@ ology , it &apos;s not science .
+H-2020	-0.2741512358188629	this is not science , this is not science .
+D-2020	-0.2741512358188629	this is not science , this is not science .
+P-2020	-0.1008 -0.0081 -0.1421 -0.4170 -0.0348 -1.1382 -0.5160 -0.4017 -0.0712 -0.1189 -0.0668
+S-2178	das ist nicht unbedingt etwas schle@@ chtes .
+T-2178	now , that &apos;s not necessarily a bad thing .
+H-2178	-0.8373382091522217	this is not a bad happen .
+D-2178	-0.8373382091522217	this is not a bad happen .
+P-2178	-0.0398 -0.0914 -0.0433 -0.7048 -2.5540 -2.7563 -0.4503 -0.0588
+S-2271	wir spielen seit 199@@ 4 war@@ <unk> .
+T-2271	we &apos;ve been playing war@@ craft since 199@@ 4 .
+H-2271	-1.171428918838501	we &apos;re already about 4 tools .
+D-2271	-1.171428918838501	we &apos;re already about 4 tools .
+P-2271	-0.0379 -0.8811 -1.1240 -2.8868 -3.3926 -0.8995 -0.0557 -0.0939
+S-3020	heute leben 6@@ ,@@ 8 milliarden menschen ,
+T-3020	the world today has 6@@ .@@ 8 billion people .
+H-3020	-1.1357427835464478	today , the 7@@ 8 billion people .
+D-3020	-1.1357427835464478	today , the 7@@ 8 billion people .
+P-3020	-2.5495 -0.3108 -1.9842 -1.6459 -1.8897 -0.6798 -0.0011 -1.1212 -0.0396
+S-3484	und das brachte mich so durch@@ einander ...
+T-3484	and it just dist@@ ur@@ bed me so much .
+H-3484	-1.1998791694641113	and the put that comes off and ...
+D-3484	-1.1998791694641113	and the put that comes off and ...
+P-3484	-0.0309 -0.9677 -3.4070 -0.9606 -1.9228 -1.7688 -0.9642 -0.6931 -0.0838
+S-3588	das ist ide@@ ologie , nicht wissenschaft .
+T-3588	it &apos;s ide@@ ology , it &apos;s not science .
+H-3588	-0.2741512358188629	this is not science , this is not science .
+D-3588	-0.2741512358188629	this is not science , this is not science .
+P-3588	-0.1008 -0.0081 -0.1421 -0.4170 -0.0348 -1.1382 -0.5160 -0.4017 -0.0712 -0.1189 -0.0668
+S-2554	machen sie das für die kinder ? &quot;
+T-2554	do they do that for the children ? &quot;
+H-2554	-0.2620653510093689	do you think for the kids ? &quot;
+D-2554	-0.2620653510093689	do you think for the kids ? &quot;
+P-2554	-0.0525 -0.1499 -0.7667 -0.9559 -0.0387 -0.1274 -0.2181 -0.0244 -0.0251
+S-3746	das ist nicht unbedingt etwas schle@@ chtes .
+T-3746	now , that &apos;s not necessarily a bad thing .
+H-3746	-0.8373382091522217	this is not a bad happen .
+D-3746	-0.8373382091522217	this is not a bad happen .
+P-3746	-0.0398 -0.0914 -0.0433 -0.7048 -2.5540 -2.7563 -0.4503 -0.0588
+S-4153	eine milliarde menschen werden heute <unk> gern .
+T-4153	one billion people will go hun@@ gry today .
+H-4153	-1.001877784729004	a billion people will be today .
+D-4153	-1.001877784729004	a billion people will be today .
+P-4153	-1.9173 -1.6011 -0.0248 -0.4276 -2.7312 -1.0716 -0.1885 -0.0530
+S-4122	machen sie das für die kinder ? &quot;
+T-4122	do they do that for the children ? &quot;
+H-4122	-0.2620653510093689	do you think for the kids ? &quot;
+D-4122	-0.2620653510093689	do you think for the kids ? &quot;
+P-4122	-0.0525 -0.1499 -0.7667 -0.9559 -0.0387 -0.1274 -0.2181 -0.0244 -0.0251
+S-3911	ich halte das messer in meiner hand .
+T-3911	i hold the kni@@ fe in my hand .
+H-3911	-1.0932948589324951	i think that in my way .
+D-3911	-1.0932948589324951	i think that in my way .
+P-3911	-0.0156 -2.6130 -0.8750 -1.0963 -0.1087 -3.9295 -0.0516 -0.0568
+S-3903	und das ziel dabei ist ganz einfach .
+T-3903	and the object of this is quite simple .
+H-3903	-0.5849428772926331	and this is very simple .
+D-3903	-0.5849428772926331	and this is very simple .
+P-3903	-0.0937 -0.0721 -0.0121 -1.9549 -0.2022 -1.6831 -0.0766
+S-3900	ich schie@@ be meinen är@@ <unk> zurück .
+T-3900	i &apos;ll get my sle@@ e@@ ve back .
+H-3900	-1.3401838541030884	i &apos;ve been carrying away away from my job .
+D-3900	-1.3401838541030884	i &apos;ve been carrying away away from my job .
+P-3900	-0.0788 -2.1251 -1.5353 -2.9731 -0.8581 -0.9019 -2.5223 -0.0244 -3.5206 -0.1167 -0.0858
+S-3826	aber das muss nicht das ende sein .
+T-3826	but it doesn &apos;t have to end there .
+H-3826	-0.7635091543197632	but this must not the end of the end .
+D-3826	-0.7635091543197632	but this must not the end of the end .
+P-3826	-0.0414 -3.2196 -1.3637 -0.3977 -1.5818 -0.0534 -0.4452 -0.2898 -0.8611 -0.0917 -0.0532
+S-3377	architekten und ingenie@@ ure , zum glück .
+T-3377	archite@@ cts and engineers , th@@ ank@@ fully .
+H-3377	-1.1573526859283447	archite@@ cts , the engineers back , lu@@ ck .
+D-3377	-1.1573526859283447	archite@@ cts , the engineers back , lu@@ ck .
+P-3377	-1.1797 -2.3756 -0.1696 -0.6093 -0.0310 -2.6863 -0.9442 -1.3271 -3.3342 -0.0243 -0.0496
+S-3031	wir haben etwas , das nicht steigt ,
+T-3031	we have something that &apos;s not going up .
+H-3031	-1.1842319965362549	we &apos;ve been something about this , right , right ?
+D-3031	-1.1842319965362549	we &apos;ve been something about this , right , right ?
+P-3031	-0.1038 -0.0954 -3.3382 -1.3394 -1.8724 -1.3448 -0.3175 -0.8515 -1.5675 -1.8031 -1.5274 -0.0497
+S-2777	nun sehe ich gre@@ g le@@ mond .
+T-2777	and i see gre@@ g le@@ <<unk>> now .
+H-2777	-0.9505696296691895	well , i &apos;ve got gre@@ ed you .
+D-2777	-0.9505696296691895	well , i &apos;ve got gre@@ ed you .
+P-2777	-2.1621 -0.2295 -0.0203 -0.3370 -0.3622 -3.4710 -0.2071 -2.6447 -0.0299 -0.0417
+S-2585	eine milliarde menschen werden heute <unk> gern .
+T-2585	one billion people will go hun@@ gry today .
+H-2585	-1.001877784729004	a billion people will be today .
+D-2585	-1.001877784729004	a billion people will be today .
+P-2585	-1.9173 -1.6011 -0.0248 -0.4276 -2.7312 -1.0716 -0.1885 -0.0530
+S-2343	ich halte das messer in meiner hand .
+T-2343	i hold the kni@@ fe in my hand .
+H-2343	-1.0932948589324951	i think that in my way .
+D-2343	-1.0932948589324951	i think that in my way .
+P-2343	-0.0156 -2.6130 -0.8750 -1.0963 -0.1087 -3.9295 -0.0516 -0.0568
+S-1496	die lebenden geb@@ ären die gei@@ ster .
+T-1496	so , the living give birth to the spi@@ ri@@ ts .
+H-1496	-1.8797460794448853	the bri@@ d of it .
+D-1496	-1.8797460794448853	the bri@@ d of it .
+P-1496	-0.9889 -2.7470 -2.5342 -0.7302 -4.3426 -1.7727 -0.0426
+S-4623	für energie fiel mir das hier ein .
+T-4623	so , with energy , all i could come up with is this .
+H-4623	-0.661659836769104	for energy .
+D-4623	-0.661659836769104	for energy .
+P-4623	-0.3955 -0.8143 -1.3812 -0.0557
+S-3055	für energie fiel mir das hier ein .
+T-3055	so , with energy , all i could come up with is this .
+H-3055	-0.661659836769104	for energy .
+D-3055	-0.661659836769104	for energy .
+P-3055	-0.3955 -0.8143 -1.3812 -0.0557
+S-4709	für welche <unk> app@@ elli@@ ere ich ?
+T-4709	what am i appe@@ aling to you to step forward and drive ?
+H-4709	-1.3744070529937744	for those of it , i hear it ?
+D-4709	-1.3744070529937744	for those of it , i hear it ?
+P-4709	-1.5285 -1.2813 -0.9538 -3.1035 -1.9290 -0.0189 -4.1197 -0.7331 -0.0343 -0.0421
+S-3141	für welche <unk> app@@ elli@@ ere ich ?
+T-3141	what am i appe@@ aling to you to step forward and drive ?
+H-3141	-1.3744070529937744	for those of it , i hear it ?
+D-3141	-1.3744070529937744	for those of it , i hear it ?
+P-3141	-1.5285 -1.2813 -0.9538 -3.1035 -1.9290 -0.0189 -4.1197 -0.7331 -0.0343 -0.0421
+S-1625	kennen sie die antwort auf diese frage ?
+T-1625	and do you know what the answer to this question now is ?
+H-1625	-0.21838317811489105	know they know the question ?
+D-1625	-0.21838317811489105	know they know the question ?
+P-1625	-0.5399 -0.2509 -0.1063 -0.4883 -0.0426 -0.0270 -0.0737
+S-737	kennen sie die antwort auf diese frage ?
+T-737	and do you know what the answer to this question now is ?
+H-737	-0.21838317811489105	know they know the question ?
+D-737	-0.21838317811489105	know they know the question ?
+P-737	-0.5399 -0.2509 -0.1063 -0.4883 -0.0426 -0.0270 -0.0737
+S-3767	falls sie es noch nicht gehört haben ,
+T-3767	if you don &apos;t know it already , this is coming .
+H-3767	-0.6586832404136658	if you don &apos;t even heard , but there &apos;s not yet .
+D-3767	-0.6586832404136658	if you don &apos;t even heard , but there &apos;s not yet .
+P-3767	-0.6655 -0.1895 -0.3227 -0.0067 -1.1236 -0.7034 -0.2187 -1.7092 -0.6553 -0.0962 -0.0921 -2.8666 -0.5207 -0.0514
+S-3413	es gibt ebenfalls wel@@ tre@@ kor@@ de .
+T-3413	there &apos;s world recor@@ ds that are on this as well .
+H-3413	-1.728115200996399	and there &apos;s this in@@ struc@@ es .
+D-3413	-1.728115200996399	and there &apos;s this in@@ struc@@ es .
+P-3413	-2.7351 -1.2758 -0.6122 -2.0253 -5.5399 -2.0252 -0.8978 -0.3868 -0.0549
+S-2199	falls sie es noch nicht gehört haben ,
+T-2199	if you don &apos;t know it already , this is coming .
+H-2199	-0.6586832404136658	if you don &apos;t even heard , but there &apos;s not yet .
+D-2199	-0.6586832404136658	if you don &apos;t even heard , but there &apos;s not yet .
+P-2199	-0.6655 -0.1895 -0.3227 -0.0067 -1.1236 -0.7034 -0.2187 -1.7092 -0.6553 -0.0962 -0.0921 -2.8666 -0.5207 -0.0514
+S-1845	es gibt ebenfalls wel@@ tre@@ kor@@ de .
+T-1845	there &apos;s world recor@@ ds that are on this as well .
+H-1845	-1.728115200996399	and there &apos;s this in@@ struc@@ es .
+D-1845	-1.728115200996399	and there &apos;s this in@@ struc@@ es .
+P-1845	-2.7351 -1.2758 -0.6122 -2.0253 -5.5399 -2.0252 -0.8978 -0.3868 -0.0549
+S-3839	wir spielen seit 199@@ 4 war@@ <unk> .
+T-3839	we &apos;ve been playing war@@ craft since 199@@ 4 .
+H-3839	-1.171428918838501	we &apos;re already about 4 tools .
+D-3839	-1.171428918838501	we &apos;re already about 4 tools .
+P-3839	-0.0379 -0.8811 -1.1240 -2.8868 -3.3926 -0.8995 -0.0557 -0.0939
+S-958	fantastisch ! diese maschine ist ziemlich laut .
+T-958	amazing ! the <<unk>> in@@ ery is kind of l@@ oud .
+H-958	-1.192179560661316	and these are l@@ ust .
+D-958	-1.192179560661316	and these are l@@ ust .
+P-958	-3.1362 -0.6327 -1.8238 -1.7513 -0.3472 -0.5444 -0.1097
+S-608	die lebenden geb@@ ären die gei@@ ster .
+T-608	so , the living give birth to the spi@@ ri@@ ts .
+H-608	-1.8797460794448853	the bri@@ d of it .
+D-608	-1.8797460794448853	the bri@@ d of it .
+P-608	-0.9889 -2.7470 -2.5342 -0.7302 -4.3426 -1.7727 -0.0426
+S-70	fantastisch ! diese maschine ist ziemlich laut .
+T-70	amazing ! the <<unk>> in@@ ery is kind of l@@ oud .
+H-70	-1.192179560661316	and these are l@@ ust .
+D-70	-1.192179560661316	and these are l@@ ust .
+P-70	-3.1362 -0.6327 -1.8238 -1.7513 -0.3472 -0.5444 -0.1097
+S-3783	glück@@ sel@@ ige produ@@ ktivität . fantastisch !
+T-3783	<<unk>> ss@@ ful produ@@ c@@ tivity . i love it .
+H-3783	-2.0657894611358643	it &apos;s 23 , inter@@ cks .
+D-3783	-2.0657894611358643	it &apos;s 23 , inter@@ cks .
+P-3783	-4.3137 -0.4930 -4.2549 -1.1041 -3.2444 -2.8518 -0.2023 -0.0620
+S-3508	das ergebnis davon war katastrop@@ ha@@ l ,
+T-3508	the result of that has been dis@@ a@@ str@@ ous .
+H-3508	-1.1257030963897705	this is an part of your car@@ bon@@ d .
+D-3508	-1.1257030963897705	this is an part of your car@@ bon@@ d .
+P-3508	-0.4002 -0.5511 -0.7806 -3.5059 -0.2551 -1.7136 -2.3059 -1.2306 -1.1647 -0.4411 -0.0338
+S-3421	und jeder in diesem raum muss hinein .
+T-3421	and everyone in this room has to get into it .
+H-3421	-1.076441764831543	every one of this .
+D-3421	-1.076441764831543	every one of this .
+P-3421	-1.0298 -0.7230 -0.8975 -0.0102 -3.4245 -0.3737
+S-2215	glück@@ sel@@ ige produ@@ ktivität . fantastisch !
+T-2215	<<unk>> ss@@ ful produ@@ c@@ tivity . i love it .
+H-2215	-2.0657894611358643	it &apos;s 23 , inter@@ cks .
+D-2215	-2.0657894611358643	it &apos;s 23 , inter@@ cks .
+P-2215	-4.3137 -0.4930 -4.2549 -1.1041 -3.2444 -2.8518 -0.2023 -0.0620
+S-1940	das ergebnis davon war katastrop@@ ha@@ l ,
+T-1940	the result of that has been dis@@ a@@ str@@ ous .
+H-1940	-1.1257030963897705	this is an part of your car@@ bon@@ d .
+D-1940	-1.1257030963897705	this is an part of your car@@ bon@@ d .
+P-1940	-0.4002 -0.5511 -0.7806 -3.5059 -0.2551 -1.7136 -2.3059 -1.2306 -1.1647 -0.4411 -0.0338
+S-1853	und jeder in diesem raum muss hinein .
+T-1853	and everyone in this room has to get into it .
+H-1853	-1.076441764831543	every one of this .
+D-1853	-1.076441764831543	every one of this .
+P-1853	-1.0298 -0.7230 -0.8975 -0.0102 -3.4245 -0.3737
+S-4588	heute leben 6@@ ,@@ 8 milliarden menschen ,
+T-4588	the world today has 6@@ .@@ 8 billion people .
+H-4588	-1.1357427835464478	today , the 7@@ 8 billion people .
+D-4588	-1.1357427835464478	today , the 7@@ 8 billion people .
+P-4588	-2.5495 -0.3108 -1.9842 -1.6459 -1.8897 -0.6798 -0.0011 -1.1212 -0.0396
+S-1797	es gibt aber noch einen weiteren grund .
+T-1797	but there &apos;s another reason as well .
+H-1797	-0.958987832069397	but there &apos;s another reason .
+D-1797	-0.958987832069397	but there &apos;s another reason .
+P-1797	-0.2907 -0.0287 -1.5401 -0.5366 -4.0667 -0.1976 -0.0526
+S-3417	und das kann einen großen unterschied machen .
+T-3417	and that can make a big difference .
+H-3417	-0.5106436610221863	and this is a big difference .
+D-3417	-0.5106436610221863	and this is a big difference .
+P-3417	-0.0568 -0.4165 -1.7466 -0.1205 -0.8332 -0.5243 -0.3254 -0.0619
+S-3365	es gibt aber noch einen weiteren grund .
+T-3365	but there &apos;s another reason as well .
+H-3365	-0.958987832069397	but there &apos;s another reason .
+D-3365	-0.958987832069397	but there &apos;s another reason .
+P-3365	-0.2907 -0.0287 -1.5401 -0.5366 -4.0667 -0.1976 -0.0526
+S-3176	auf jeden fall brauchen wir eine lösung .
+T-3176	we certainly need one to <<unk>> ed .
+H-3176	-1.2184875011444092	so what we need to do .
+D-3176	-1.2184875011444092	so what we need to do .
+P-3176	-1.5289 -3.6165 -0.1864 -0.0441 -2.3803 -1.5376 -0.3908 -0.0634
+S-3103	das ist eine ziemlich <unk> te idee .
+T-3103	it is kind of a crazy idea .
+H-3103	-0.5549291968345642	that &apos;s a big idea .
+D-3103	-0.5549291968345642	that &apos;s a big idea .
+P-3103	-0.3182 -0.0033 -0.3452 -3.0820 -0.0577 -0.0444 -0.0337
+S-2958	<unk> ka@@ h@@ ne@@ man : sicher .
+T-2958	<<unk>> <<unk>> h@@ ne@@ man : sure .
+H-2958	-1.3937715291976929	it &apos;ll be happy : you &apos;ll happen .
+D-2958	-1.3937715291976929	it &apos;ll be happy : you &apos;ll happen .
+P-2958	-4.3298 -0.7006 -0.8171 -1.5841 -0.8757 -0.0216 -0.5836 -4.8371 -0.1401 -0.0480
+S-2855	und das ist eine sehr einfache frage .
+T-2855	and it &apos;s a very easy question .
+H-2855	-0.31290194392204285	and this is a question .
+D-2855	-0.31290194392204285	and this is a question .
+P-2855	-0.2567 -0.1502 -0.0022 -1.2786 -0.0964 -0.3055 -0.1007
+S-2814	damit höre ich auf , vielen dank .
+T-2814	so with that , i thank you .
+H-2814	-0.7041504979133606	and i mean , thank you so much .
+D-2814	-0.7041504979133606	and i mean , thank you so much .
+P-2814	-0.0926 -0.3629 -3.5596 -1.1053 -0.0984 -0.0099 -1.4920 -0.1353 -0.1044 -0.0811
+S-2618	ich konnte zeichnen . ich konnte malen .
+T-2618	i could draw . i could paint .
+H-2618	-0.9461098313331604	i could be depres@@ sed .
+D-2618	-0.9461098313331604	i could be depres@@ sed .
+P-2618	-0.0606 -0.2908 -1.0725 -4.6089 -0.3995 -0.0893 -0.1013
+S-2496	sie flu@@ teten die kan@@ ä@@ le .
+T-2496	they f@@ loo@@ ded the can@@ als .
+H-2496	-1.3903453350067139	they &apos;ve got to solve the food industry .
+D-2496	-1.3903453350067139	they &apos;ve got to solve the food industry .
+P-2496	-0.0131 -3.3294 -0.5907 -0.6332 -3.7567 -0.0305 -1.2578 -4.1950 -0.0252 -0.0719
+S-2435	sch@@ me@@ ckt auch nicht sehr gut .
+T-2435	it doesn &apos;t taste very good either .
+H-2435	-1.344814658164978	don &apos;t worry , very well .
+D-2435	-1.344814658164978	don &apos;t worry , very well .
+P-2435	-4.1564 -0.0235 -3.9264 -0.1793 -0.1437 -2.0003 -0.2659 -0.0630
+S-2268	also könnte diese <unk> te geschichte stimmen .
+T-2268	so this crazy story might be true .
+H-2268	-0.4572764039039612	so , there could be this story .
+D-2268	-0.4572764039039612	so , there could be this story .
+P-2268	-0.0166 -0.1983 -2.6436 -0.0028 -0.1028 -0.7204 -0.1568 -0.2007 -0.0734
+S-2224	fünf millionen menschen benutzen es jeden monat .
+T-2224	five million people use it every month .
+H-2224	-1.0303128957748413	five million people have taken away every year .
+D-2224	-1.0303128957748413	five million people have taken away every year .
+P-2224	-1.8345 -1.4516 -0.0244 -0.1035 -3.0511 -1.7356 -1.3326 -0.5680 -0.1385 -0.0633
+S-2099	musik ist medizin . musik verändert uns .
+T-2099	music is medicine . music changes us .
+H-2099	-1.180999755859375	music music i@@ music .
+D-2099	-1.180999755859375	music music i@@ music .
+P-2099	-0.0109 -1.6650 -3.7209 -0.6146 -1.0124 -0.0623
+S-2038	das hat mit wissenschaft nichts zu tun .
+T-2038	this has nothing to do with science .
+H-2038	-0.7382552027702332	this has not science with science .
+D-2038	-0.7382552027702332	this has not science with science .
+P-2038	-0.0869 -1.2989 -1.6148 -0.9028 -1.2070 -0.1642 -0.5713 -0.0601
+S-1849	und das kann einen großen unterschied machen .
+T-1849	and that can make a big difference .
+H-1849	-0.5106436610221863	and this is a big difference .
+D-1849	-0.5106436610221863	and this is a big difference .
+P-1849	-0.0568 -0.4165 -1.7466 -0.1205 -0.8332 -0.5243 -0.3254 -0.0619
+S-3606	das hat mit wissenschaft nichts zu tun .
+T-3606	this has nothing to do with science .
+H-3606	-0.7382552027702332	this has not science with science .
+D-3606	-0.7382552027702332	this has not science with science .
+P-3606	-0.0869 -1.2989 -1.6148 -0.9028 -1.2070 -0.1642 -0.5713 -0.0601
+S-1686	und es gibt mehrere gründe für dies .
+T-1686	and there are several reasons for this .
+H-1686	-0.7729082703590393	and there &apos;s all kinds of reasons for this .
+D-1686	-0.7729082703590393	and there &apos;s all kinds of reasons for this .
+P-1686	-0.0179 -0.2132 -0.2829 -4.3255 -0.9293 -0.0239 -1.4894 -1.0304 -0.0262 -0.1035 -0.0597
+S-1587	sie sind die heimat@@ länder von jemandem .
+T-1587	they &apos;re hom@@ el@@ ands of somebody .
+H-1587	-1.0986882448196411	they &apos;re surro@@ unded for the developing countries .
+D-1587	-1.0986882448196411	they &apos;re surro@@ unded for the developing countries .
+P-1587	-0.0432 -0.2681 -4.6399 -1.5329 -0.6213 -1.9246 -1.7656 -0.0723 -0.0543 -0.0645
+S-1446	wir durch@@ laufen initi@@ ations@@ <unk> ale .
+T-1446	we go through initi@@ ation ri@@ tes .
+H-1446	-1.2151914834976196	we &apos;re trying to re@@ clean it .
+D-1446	-1.2151914834976196	we &apos;re trying to re@@ clean it .
+P-1446	-0.0204 -0.7593 -3.7096 -0.0538 -3.1555 -2.0085 -1.0131 -0.1058 -0.1107
+S-1359	sonnen@@ licht und co2 sind eine methode --
+T-1359	sun@@ light and co2 is one method ...
+H-1359	-1.6363693475723267	and those are a lot of looking for a place .
+D-1359	-1.6363693475723267	and those are a lot of looking for a place .
+P-1359	-1.9941 -3.0764 -1.8378 -1.4308 -3.1917 -0.0281 -2.8767 -0.7220 -1.1916 -3.1536 -0.0900 -0.0436
+S-1270	wir haben vor 15 jahren damit begonnen .
+T-1270	we started this over 15 years ago .
+H-1270	-1.1218527555465698	we &apos;ve been about this .
+D-1270	-1.1218527555465698	we &apos;ve been about this .
+P-1270	-0.3201 -0.3003 -0.7069 -1.8382 -2.2680 -2.3485 -0.0709
+S-1252	jun@@ e co@@ hen : ol@@ é !
+T-1252	jun@@ e co@@ hen : ol@@ é !
+H-1252	-1.7916959524154663	will call it !
+D-1252	-1.7916959524154663	will call it !
+P-1252	-4.6564 -3.1943 -0.3065 -0.7330 -0.0684
+S-1119	ich finde sie ab@@ sch@@ eu@@ lich .
+T-1119	i think it &apos;s o@@ di@@ ous .
+H-1119	-0.9468377828598022	i think it &apos;s reas@@ sh@@ ing .
+D-1119	-0.9468377828598022	i think it &apos;s reas@@ sh@@ ing .
+P-1119	-0.3158 -0.7681 -1.2489 -0.2409 -3.0411 -0.7143 -2.1159 -0.0132 -0.0633
+S-907	diese flüs@@ se nehmen <unk> de zu .
+T-907	these flo@@ ws are increasing very rapidly .
+H-907	-1.676343560218811	these fun@@ ctions it to move it .
+D-907	-1.676343560218811	these fun@@ ctions it to move it .
+P-907	-0.1389 -5.2350 -2.8597 -0.5539 -0.2335 -4.6641 -1.0312 -0.2863 -0.0845
+S-798	und es gibt mehrere gründe für dies .
+T-798	and there are several reasons for this .
+H-798	-0.7729082703590393	and there &apos;s all kinds of reasons for this .
+D-798	-0.7729082703590393	and there &apos;s all kinds of reasons for this .
+P-798	-0.0179 -0.2132 -0.2829 -4.3255 -0.9293 -0.0239 -1.4894 -1.0304 -0.0262 -0.1035 -0.0597
+S-699	sie sind die heimat@@ länder von jemandem .
+T-699	they &apos;re hom@@ el@@ ands of somebody .
+H-699	-1.0986882448196411	they &apos;re surro@@ unded for the developing countries .
+D-699	-1.0986882448196411	they &apos;re surro@@ unded for the developing countries .
+P-699	-0.0432 -0.2681 -4.6399 -1.5329 -0.6213 -1.9246 -1.7656 -0.0723 -0.0543 -0.0645
+S-558	wir durch@@ laufen initi@@ ations@@ <unk> ale .
+T-558	we go through initi@@ ation ri@@ tes .
+H-558	-1.2151914834976196	we &apos;re trying to re@@ clean it .
+D-558	-1.2151914834976196	we &apos;re trying to re@@ clean it .
+P-558	-0.0204 -0.7593 -3.7096 -0.0538 -3.1555 -2.0085 -1.0131 -0.1058 -0.1107
+S-471	sonnen@@ licht und co2 sind eine methode --
+T-471	sun@@ light and co2 is one method ...
+H-471	-1.6363693475723267	and those are a lot of looking for a place .
+D-471	-1.6363693475723267	and those are a lot of looking for a place .
+P-471	-1.9941 -3.0764 -1.8378 -1.4308 -3.1917 -0.0281 -2.8767 -0.7220 -1.1916 -3.1536 -0.0900 -0.0436
+S-382	wir haben vor 15 jahren damit begonnen .
+T-382	we started this over 15 years ago .
+H-382	-1.1218527555465698	we &apos;ve been about this .
+D-382	-1.1218527555465698	we &apos;ve been about this .
+P-382	-0.3201 -0.3003 -0.7069 -1.8382 -2.2680 -2.3485 -0.0709
+S-364	jun@@ e co@@ hen : ol@@ é !
+T-364	jun@@ e co@@ hen : ol@@ é !
+H-364	-1.7916959524154663	will call it !
+D-364	-1.7916959524154663	will call it !
+P-364	-4.6564 -3.1943 -0.3065 -0.7330 -0.0684
+S-231	ich finde sie ab@@ sch@@ eu@@ lich .
+T-231	i think it &apos;s o@@ di@@ ous .
+H-231	-0.9468377828598022	i think it &apos;s reas@@ sh@@ ing .
+D-231	-0.9468377828598022	i think it &apos;s reas@@ sh@@ ing .
+P-231	-0.3158 -0.7681 -1.2489 -0.2409 -3.0411 -0.7143 -2.1159 -0.0132 -0.0633
+S-495	ich würde es nicht emp@@ fe@@ hlen .
+T-495	i wouldn &apos;t re@@ com@@ men@@ d it .
+H-495	-0.14955802261829376	i would re@@ com@@ men@@ d it .
+D-495	-0.14955802261829376	i would re@@ com@@ men@@ d it .
+P-495	-0.0029 -0.5795 -0.2176 -0.1742 -0.1953 -0.0532 -0.0035 -0.0330 -0.0869
+S-2335	und das ziel dabei ist ganz einfach .
+T-2335	and the object of this is quite simple .
+H-2335	-0.5849428772926331	and this is very simple .
+D-2335	-0.5849428772926331	and this is very simple .
+P-2335	-0.0937 -0.0721 -0.0121 -1.9549 -0.2022 -1.6831 -0.0766
+S-2332	ich schie@@ be meinen är@@ <unk> zurück .
+T-2332	i &apos;ll get my sle@@ e@@ ve back .
+H-2332	-1.3401838541030884	i &apos;ve been carrying away away from my job .
+D-2332	-1.3401838541030884	i &apos;ve been carrying away away from my job .
+P-2332	-0.0788 -2.1251 -1.5353 -2.9731 -0.8581 -0.9019 -2.5223 -0.0244 -3.5206 -0.1167 -0.0858
+S-2258	aber das muss nicht das ende sein .
+T-2258	but it doesn &apos;t have to end there .
+H-2258	-0.7635091543197632	but this must not the end of the end .
+D-2258	-0.7635091543197632	but this must not the end of the end .
+P-2258	-0.0414 -3.2196 -1.3637 -0.3977 -1.5818 -0.0534 -0.4452 -0.2898 -0.8611 -0.0917 -0.0532
+S-1809	architekten und ingenie@@ ure , zum glück .
+T-1809	archite@@ cts and engineers , th@@ ank@@ fully .
+H-1809	-1.1573526859283447	archite@@ cts , the engineers back , lu@@ ck .
+D-1809	-1.1573526859283447	archite@@ cts , the engineers back , lu@@ ck .
+P-1809	-1.1797 -2.3756 -0.1696 -0.6093 -0.0310 -2.6863 -0.9442 -1.3271 -3.3342 -0.0243 -0.0496
+S-1631	a hat diese vor@@ teile und risiken .
+T-1631	a has these benefits , and these risks .
+H-1631	-1.6889469623565674	this is a good guy in your work and beauty .
+D-1631	-1.6889469623565674	this is a good guy in your work and beauty .
+P-1631	-0.7696 -0.2291 -3.8402 -1.3099 -2.9357 -1.3426 -2.8743 -2.3735 -0.5092 -3.9182 -0.0991 -0.0660
+S-1592	unsere zeit@@ schriften werden von millionen gelesen .
+T-1592	our <<unk>> <<unk>> es are read by millions .
+H-1592	-1.3268805742263794	our millions of them will be millions of them .
+D-1592	-1.3268805742263794	our millions of them will be millions of them .
+P-1592	-0.4941 -4.6519 -0.0025 -1.9183 -0.6209 -0.0126 -4.9073 -0.0356 -1.7803 -0.1173 -0.0548
+S-1470	lass sie ko@@ g@@ i sein . &quot;
+T-1470	let &apos;s make it ko@@ g@@ i . &quot;
+H-1470	-1.0814286470413208	it may be pre@@ stige . &quot;
+D-1470	-1.0814286470413208	it may be pre@@ stige . &quot;
+P-1470	-1.0964 -1.1085 -0.0295 -2.3144 -2.9757 -0.7207 -0.3829 -0.0233
+S-1383	ich würde es nicht emp@@ fe@@ hlen .
+T-1383	i wouldn &apos;t re@@ com@@ men@@ d it .
+H-1383	-0.14955802261829376	i would re@@ com@@ men@@ d it .
+D-1383	-0.14955802261829376	i would re@@ com@@ men@@ d it .
+P-1383	-0.0029 -0.5795 -0.2176 -0.1742 -0.1953 -0.0532 -0.0035 -0.0330 -0.0869
+S-1053	hier lässt er die sonne auf@@ gehen .
+T-1053	here , he &apos;s bringing the sun out .
+H-1053	-1.4216521978378296	here &apos;s he lets you go to it .
+D-1053	-1.4216521978378296	here &apos;s he lets you go to it .
+P-1053	-1.6578 -0.8634 -2.9801 -2.4199 -1.4224 -0.3687 -0.5512 -3.7663 -0.1235 -0.0633
+S-970	al gore : dies ist die letzte .
+T-970	al gore : this is the last one .
+H-970	-0.4667902886867523	al gore : that &apos;s the last thing .
+D-970	-0.4667902886867523	al gore : that &apos;s the last thing .
+P-970	-0.0097 -0.0056 -0.0199 -0.4413 -0.0132 -1.0124 -1.3030 -1.7708 -0.0575 -0.0346
+S-935	dieses bild erinn@@ erte mich an etwas .
+T-935	that image re@@ min@@ ded me of something .
+H-935	-1.1047824621200562	and this re@@ mem@@ ber@@ ed me : something .
+D-935	-1.1047824621200562	and this re@@ mem@@ ber@@ ed me : something .
+P-935	-3.6239 -0.1523 -2.5666 -1.8768 -1.1291 -0.0736 -0.5311 -1.9882 -0.1113 -0.0345 -0.0652
+S-918	dies betrifft die spei@@ cher@@ be@@ cken .
+T-918	this is hit@@ ting the <<unk>> vo@@ irs .
+H-918	-1.4687144756317139	that &apos;s another bit of it .
+D-918	-1.4687144756317139	that &apos;s another bit of it .
+P-918	-1.2798 -0.0814 -4.4431 -2.9012 -0.3735 -2.5528 -0.0685 -0.0493
+S-743	a hat diese vor@@ teile und risiken .
+T-743	a has these benefits , and these risks .
+H-743	-1.6889469623565674	this is a good guy in your work and beauty .
+D-743	-1.6889469623565674	this is a good guy in your work and beauty .
+P-743	-0.7696 -0.2291 -3.8402 -1.3099 -2.9357 -1.3426 -2.8743 -2.3735 -0.5092 -3.9182 -0.0991 -0.0660
+S-704	unsere zeit@@ schriften werden von millionen gelesen .
+T-704	our <<unk>> <<unk>> es are read by millions .
+H-704	-1.3268805742263794	our millions of them will be millions of them .
+D-704	-1.3268805742263794	our millions of them will be millions of them .
+P-704	-0.4941 -4.6519 -0.0025 -1.9183 -0.6209 -0.0126 -4.9073 -0.0356 -1.7803 -0.1173 -0.0548
+S-582	lass sie ko@@ g@@ i sein . &quot;
+T-582	let &apos;s make it ko@@ g@@ i . &quot;
+H-582	-1.0814286470413208	it may be pre@@ stige . &quot;
+D-582	-1.0814286470413208	it may be pre@@ stige . &quot;
+P-582	-1.0964 -1.1085 -0.0295 -2.3144 -2.9757 -0.7207 -0.3829 -0.0233
+S-19	diese flüs@@ se nehmen <unk> de zu .
+T-19	these flo@@ ws are increasing very rapidly .
+H-19	-1.676343560218811	these fun@@ ctions it to move it .
+D-19	-1.676343560218811	these fun@@ ctions it to move it .
+P-19	-0.1389 -5.2350 -2.8597 -0.5539 -0.2335 -4.6641 -1.0312 -0.2863 -0.0845
+S-165	hier lässt er die sonne auf@@ gehen .
+T-165	here , he &apos;s bringing the sun out .
+H-165	-1.4216521978378296	here &apos;s he lets you go to it .
+D-165	-1.4216521978378296	here &apos;s he lets you go to it .
+P-165	-1.6578 -0.8634 -2.9801 -2.4199 -1.4224 -0.3687 -0.5512 -3.7663 -0.1235 -0.0633
+S-82	al gore : dies ist die letzte .
+T-82	al gore : this is the last one .
+H-82	-0.4667902886867523	al gore : that &apos;s the last thing .
+D-82	-0.4667902886867523	al gore : that &apos;s the last thing .
+P-82	-0.0097 -0.0056 -0.0199 -0.4413 -0.0132 -1.0124 -1.3030 -1.7708 -0.0575 -0.0346
+S-47	dieses bild erinn@@ erte mich an etwas .
+T-47	that image re@@ min@@ ded me of something .
+H-47	-1.1047824621200562	and this re@@ mem@@ ber@@ ed me : something .
+D-47	-1.1047824621200562	and this re@@ mem@@ ber@@ ed me : something .
+P-47	-3.6239 -0.1523 -2.5666 -1.8768 -1.1291 -0.0736 -0.5311 -1.9882 -0.1113 -0.0345 -0.0652
+S-30	dies betrifft die spei@@ cher@@ be@@ cken .
+T-30	this is hit@@ ting the <<unk>> vo@@ irs .
+H-30	-1.4687144756317139	that &apos;s another bit of it .
+D-30	-1.4687144756317139	that &apos;s another bit of it .
+P-30	-1.2798 -0.0814 -4.4431 -2.9012 -0.3735 -2.5528 -0.0685 -0.0493
+S-4744	auf jeden fall brauchen wir eine lösung .
+T-4744	we certainly need one to <<unk>> ed .
+H-4744	-1.2184875011444092	so what we need to do .
+D-4744	-1.2184875011444092	so what we need to do .
+P-4744	-1.5289 -3.6165 -0.1864 -0.0441 -2.3803 -1.5376 -0.3908 -0.0634
+S-4671	das ist eine ziemlich <unk> te idee .
+T-4671	it is kind of a crazy idea .
+H-4671	-0.5549291968345642	that &apos;s a big idea .
+D-4671	-0.5549291968345642	that &apos;s a big idea .
+P-4671	-0.3182 -0.0033 -0.3452 -3.0820 -0.0577 -0.0444 -0.0337
+S-4526	<unk> ka@@ h@@ ne@@ man : sicher .
+T-4526	<<unk>> <<unk>> h@@ ne@@ man : sure .
+H-4526	-1.3937715291976929	it &apos;ll be happy : you &apos;ll happen .
+D-4526	-1.3937715291976929	it &apos;ll be happy : you &apos;ll happen .
+P-4526	-4.3298 -0.7006 -0.8171 -1.5841 -0.8757 -0.0216 -0.5836 -4.8371 -0.1401 -0.0480
+S-4423	und das ist eine sehr einfache frage .
+T-4423	and it &apos;s a very easy question .
+H-4423	-0.31290194392204285	and this is a question .
+D-4423	-0.31290194392204285	and this is a question .
+P-4423	-0.2567 -0.1502 -0.0022 -1.2786 -0.0964 -0.3055 -0.1007
+S-4382	damit höre ich auf , vielen dank .
+T-4382	so with that , i thank you .
+H-4382	-0.7041504979133606	and i mean , thank you so much .
+D-4382	-0.7041504979133606	and i mean , thank you so much .
+P-4382	-0.0926 -0.3629 -3.5596 -1.1053 -0.0984 -0.0099 -1.4920 -0.1353 -0.1044 -0.0811
+S-4186	ich konnte zeichnen . ich konnte malen .
+T-4186	i could draw . i could paint .
+H-4186	-0.9461098313331604	i could be depres@@ sed .
+D-4186	-0.9461098313331604	i could be depres@@ sed .
+P-4186	-0.0606 -0.2908 -1.0725 -4.6089 -0.3995 -0.0893 -0.1013
+S-4064	sie flu@@ teten die kan@@ ä@@ le .
+T-4064	they f@@ loo@@ ded the can@@ als .
+H-4064	-1.3903453350067139	they &apos;ve got to solve the food industry .
+D-4064	-1.3903453350067139	they &apos;ve got to solve the food industry .
+P-4064	-0.0131 -3.3294 -0.5907 -0.6332 -3.7567 -0.0305 -1.2578 -4.1950 -0.0252 -0.0719
+S-4003	sch@@ me@@ ckt auch nicht sehr gut .
+T-4003	it doesn &apos;t taste very good either .
+H-4003	-1.344814658164978	don &apos;t worry , very well .
+D-4003	-1.344814658164978	don &apos;t worry , very well .
+P-4003	-4.1564 -0.0235 -3.9264 -0.1793 -0.1437 -2.0003 -0.2659 -0.0630
+S-3836	also könnte diese <unk> te geschichte stimmen .
+T-3836	so this crazy story might be true .
+H-3836	-0.4572764039039612	so , there could be this story .
+D-3836	-0.4572764039039612	so , there could be this story .
+P-3836	-0.0166 -0.1983 -2.6436 -0.0028 -0.1028 -0.7204 -0.1568 -0.2007 -0.0734
+S-3792	fünf millionen menschen benutzen es jeden monat .
+T-3792	five million people use it every month .
+H-3792	-1.0303128957748413	five million people have taken away every year .
+D-3792	-1.0303128957748413	five million people have taken away every year .
+P-3792	-1.8345 -1.4516 -0.0244 -0.1035 -3.0511 -1.7356 -1.3326 -0.5680 -0.1385 -0.0633
+S-3667	musik ist medizin . musik verändert uns .
+T-3667	music is medicine . music changes us .
+H-3667	-1.180999755859375	music music i@@ music .
+D-3667	-1.180999755859375	music music i@@ music .
+P-3667	-0.0109 -1.6650 -3.7209 -0.6146 -1.0124 -0.0623
